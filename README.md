@@ -4,7 +4,7 @@ These are the main "Blade" parts that can be used. Wait for instruction which 1 
 =====PASTE APPLICABLE BLADE PARTS HERE=====
 Note: Parameters are [Attack, Defense, Stamina]
 
-The "Ratchets" serve as the central body of the Beyblade. The first digit indicates the number of bumps or contact points [more bumps mean a higher attack boost but also a greater chance of bursting]. The following two digits represent the height in millimeters, which determines the overall height of the Beyblade. Consider both factors for performance and durability.
+The "Ratchets" serve as the central body of the Beyblade. The first digit indicates the number of protrusions or contact points. The following two digits represent the height in millimeters, which determines the overall height of the Beyblade. Consider both factors for performance and durability.
 =====PASTE APPLICABLE RATCHET PARTS HERE=====
 Note: Parameters are [Attack, Defense, Stamina]
 
@@ -13,13 +13,12 @@ The "Bit" parts refer to the tip under the Beyblade, influencing its movement, b
 Note: Parameters are [Attack, Defense, Stamina, Dash, Burst Resistance]
 
 Important Notes:
-- Do not entirely rely on stats parameter for builds but also consider these following information below.
-- Burst Resistance via Bit part 5th parameter are only either High-enduring (80) or Low-enduring (30) burstability.
-- Burst Resistance via Ratchet part height is more enduring on (?-60) 60mm compared to (?-80) 80mm; unless a more enduring Bit part is used to supplement it.
-- More protrusions on Ratchet part especially if on 80mm height boosts attack but makes build more burstable; unless a more enduring Bit part is used to supplement it.
-- Attack boost via Ratchet height is more powerful if taller (?-80) 80mm yet more susceptible or burstable.
-- Stamina via Ratchet height lasts longer on (?-60) 60mm compared to (?-80) 80mm unless supplemented with high Blade/Bit.
-- Higher Dash stat parameter via Bit part enhances Attack performance but lessen Stamina.
+- While stats are important, they should not be the sole factor in building Beyblades. Other factors such as burst resistance and playstyle should also be considered.
+- The Burst Resistance parameter in the Bit part is either High-enduring (80) or Low-enduring (30), impacting the Beyblade's ability to withstand bursts.
+- Ratchet parts with a height of (?-60) 60mm have better burst resistance compared to (?-80) 80mm. However, using a more enduring Bit part can supplement the burst resistance.
+- More protrusions on Ratchet parts, especially on 80mm height, boost attack but increase susceptibility to bursting. Again, using a more enduring Bit part can mitigate this risk.
+- Taller Ratchet heights (?-80) 80mm provide a more powerful attack boost but also increase the risk of bursting. Stamina lasts longer with a 60mm height unless complemented by Blade/Bit with high Stamina stats.
+- Higher Dash stat parameters in the Bit part enhance Attack performance but reduce Stamina. This trade-off should be considered based on the desired playstyle.
 
 List the final build combos using this exact naming convention:
 Example: Knight Lance 4-80HN
