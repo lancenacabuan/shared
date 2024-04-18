@@ -33,7 +33,6 @@ Example:
  - **Reasoning:** The Phoenix Wing blade provides significant attack power, allowing for powerful strikes against opponents. The 3-60 Ratchet balances stability and burst resistance, crucial for aggressive playstyles. The P Bit enhances movement for dynamic maneuvers and attack hits. Overall, this build combines attack prowess with strategic maneuverability and stability.
 
 Just take notes of all given information above then wait for additional data and go signal before generating anything.
-I want to know the process flow that you will do in considering optimal Beyblade builds in enumerated bullet form.
 
 =====COPY PARTS FROM HERE=====
 ### Blades:
