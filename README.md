@@ -35,11 +35,7 @@ Example:
 Just take notes of all given information above then wait for additional data and go signal before generating anything.
 I want to know the process flow that you will do in considering optimal Beyblade builds in enumerated bullet form.
 
-Analyze these builds considering instructions/guidelines above:
-1. Phoenix Wing 3-60P [105, 64, 71, 25, 150]: Featuring strong attack power combined with strategic versatility and stability, this build is well-rounded and adaptable, suitable for various playstyles and competitive scenarios.
-2. Knight Shield 5-60N [42, 114, 64, 10, 80]: Designed for defensive and counter-attacking playstyles, this build emphasizes high defense, stability, and counter performance. It excels in absorbing opponent attacks and executing strategic counter-attacks.
-3. Shark Edge 9-60B [88, 60, 82, 10, 130]: This build focuses on aggressive playstyles with strong attack capabilities, balanced by a lightweight ratchet and a bit that enhances stamina. It excels in controlled aggression and strategic stamina preservation.
-
+=====COPY PARTS FROM HERE=====
 ### Blades:
 - Dran Sword (Weight: 34.8g) [55, 25, 20, 0, 0] - Excellent at flipping the opponent diagonally upwards with its three upper blades.
 - Hell Scythe (Weight: 32.7g) [30, 35, 35, 0, 0] - Excellent at breaking the opponent's balance with four smash blades.
