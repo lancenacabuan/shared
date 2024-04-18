@@ -1,36 +1,163 @@
-Create the most optimal team of 3 Beyblades comprising different combinations of the main parts: "Blade," "Ratchet," and "Bit." Ensure that each unique part is used only once. Consider the stats of each part to balance out weaknesses and complement other parts for an optimal build. Here are the available parts for your selection:
+Build the optimal team of 3 Beyblades by selecting from different combinations of "Blade," "Ratchet," and "Bit" parts. Each unique part must be used only once to create balanced teams. Take into account the specialties and stats of each part to address weaknesses and complement other parts for the best performance. Below are the available parts categorized by type:
+NOTE: Parameters are [Attack, Defense, Stamina, Dash, Burst Resistance]
 
-These are the main "Blade" parts that can be used. Wait for instruction which 1 specific Blade or 3 main Blades I am interested to use:
+These are the main "Blade" parts that can be used each having a unique featured specialty. Wait for instruction which 1 specific Blade or 3 main Blades I am interested to use:
+### Blades:
 =====PASTE APPLICABLE BLADE PARTS HERE=====
-Note: Parameters are [Attack, Defense, Stamina]
 
-The "Ratchets" serve as the central body of the Beyblade. The first digit indicates the number of protrusions or contact points. The following two digits represent the height in millimeters, which determines the overall height of the Beyblade. Consider both factors for performance and durability.
+The "Ratchets" serve as the central body of the Beyblade. The first digit before the dash indicates the number of "Protrusions," while the following two digits after the dash represent the height in millimeters (60 for 6.0mm, 80 for 8.0mm).
+### Ratchets:
 =====PASTE APPLICABLE RATCHET PARTS HERE=====
-Note: Parameters are [Attack, Defense, Stamina]
 
-The "Bit" parts refer to the tip under the Beyblade, influencing its movement, behavior, and burstability based on their stats. Keep in mind that Beyblades can burst and utilize the Dash mechanic on the stadium.
+The "Bit" parts refer to the tip under the Beyblade, influencing its dash movement/behavior and burstability based on their stats. Keep in mind that Beyblades can burst during battles and utilize the X-Dash mechanic on the stadium.
+### Bits:
 =====PASTE APPLICABLE BIT PARTS HERE=====
-Note: Parameters are [Attack, Defense, Stamina, Dash, Burst Resistance]
 
 Important Notes:
-- While stats are important, they should not be the sole factor in building Beyblades. Other factors such as burst resistance and playstyle should also be considered.
-- The Burst Resistance parameter in the Bit part is either High-enduring (80) or Low-enduring (30), impacting the Beyblade's ability to withstand bursts.
-- Ratchet parts with a height of (?-60) 60mm have better burst resistance compared to (?-80) 80mm. However, using a more enduring Bit part can supplement the burst resistance.
-- More protrusions on Ratchet parts, especially on 80mm height, boost attack but increase susceptibility to bursting. Again, using a more enduring Bit part can mitigate this risk.
-- Taller Ratchet heights (?-80) 80mm provide a more powerful attack boost but also increase the risk of bursting. Stamina lasts longer with a 60mm height unless complemented by Blade/Bit with high Stamina stats.
-- Higher Dash stat parameters in the Bit part enhance Attack performance but reduce Stamina. This trade-off should be considered based on the desired playstyle.
-
-List the final build combos using this exact naming convention:
-Example: Knight Lance 4-80HN
+- While stats are crucial, they shouldn't be the sole basis for Beyblade builds. Consider the weight, featured specialty of Blade and/or Bit parts, Burst Resistance, and intended playstyle.
+- The Burst Resistance value in the Bit part's 5th stat parameter is either High-enduring (80) or Low-enduring (30), significantly affecting the Beyblade's ability to withstand bursts. Using a more enduring Ratchet part can offset this difference.
+- Taller Ratchets (?-80)/8.0mm can enhance Attack Hit performance but may increase the risk of bursting.
+- Stamina may last longer with a shorter Ratchet (?-60)/6.0mm height unless paired with Blade and/or Bit with good Stamina stats value.
+- Higher Dash stats value in the Bit part's 4th stat parameter can enhance Attack Hit performance but may reduce Stamina. Consider this trade-off based on your desired playstyle.
+- Always consider whether how high/low a specific stat value in comparison to the available range of stat values for that specific stat among all Beyblade parts during building process.
 
 Then include the Total Overall Stats: [Attack, Defense, Stamina, Dash, Burst Resistance]
-Formula:
-- Attack, Defense, and Stamina:
- - Attack = Sum Total Attack from Blade, Ratchet, Bit
- - Defense = Sum Total Defense from Blade, Ratchet, Bit
- - Stamina = Sum Total Stamina from Blade, Ratchet, Bit
-- Dash and Burst Resistance: Take the value directly from the Bit part.
+Formula: Just add total Stat values each from Blade, Ratchet, and Bit part.
 
+List the final build combos using this exact naming convention below and overall stat.
 Additionally, describe in-depth the playstyle, win condition, and the reasoning behind the build of each Beyblade.
+Example:
+**Phoenix Wing 3-60P [105, 64, 71, 25, 150]**
+ - **Playstyle:** This Beyblade leans towards an aggressive playstyle, utilizing its strong attack power and dynamic maneuverability.
+ - **Win Condition:** The win condition for this build is to overwhelm opponents with relentless attacks while maintaining enough stamina to outlast them.
+ - **Reasoning:** The Phoenix Wing blade provides significant attack power, allowing for powerful strikes against opponents. The 3-60 Ratchet balances stability and burst resistance, crucial for aggressive playstyles. The P Bit enhances movement for dynamic maneuvers and attack hits. Overall, this build combines attack prowess with strategic maneuverability and stability.
 
-Just take notes of all given information and wait for additional data and go signal before generating anything.
+Just take notes of all given information above then wait for additional data and go signal before generating anything.
+I want to know the process flow that you will do in considering optimal Beyblade builds in enumerated bullet form.
+
+Analyze these builds considering instructions/guidelines above:
+1. Phoenix Wing 3-60P [105, 64, 71, 25, 150]: Featuring strong attack power combined with strategic versatility and stability, this build is well-rounded and adaptable, suitable for various playstyles and competitive scenarios.
+2. Knight Shield 5-60N [42, 114, 64, 10, 80]: Designed for defensive and counter-attacking playstyles, this build emphasizes high defense, stability, and counter performance. It excels in absorbing opponent attacks and executing strategic counter-attacks.
+3. Shark Edge 9-60B [88, 60, 82, 10, 130]: This build focuses on aggressive playstyles with strong attack capabilities, balanced by a lightweight ratchet and a bit that enhances stamina. It excels in controlled aggression and strategic stamina preservation.
+
+### Blades:
+- Dran Sword (Weight: 34.8g) [55, 25, 20, 0, 0] - Excellent at flipping the opponent diagonally upwards with its three upper blades.
+- Hell Scythe (Weight: 32.7g) [30, 35, 35, 0, 0] - Excellent at breaking the opponent's balance with four smash blades.
+- Wizard Arrow (Weight: 32.0g) [15, 30, 55, 0, 0] - Designed with an outer center of gravity that generates strong centrifugal force with two large circular blades.
+- Knight Shield (Weight: 32.3g) [20, 55, 25, 0, 0] - Adopts a damper structure that easily absorbs shock with 6 defensive blades
+- Knight Lance (Weight: 32.9g) [25, 60, 15, 0, 0] - The blade is designed to be positioned high, making it excellent at suppressing the opponent's attacks.
+- Shark Edge (Weight: 34.6g) [60, 25, 25, 0, 0] - Designed to penetrate into the opponent's pocket with a steeply angled upper blade and bounce up from a low position
+- Phoenix Wing (Weight: 37.9g) [65, 30, 20, 0, 0] - Strongly repels the opponent with three heavy blades.
+- Leon Claw (Weight: 31.5g) [40, 40, 20, 0, 0] - Designed to have both an attack blade and a defense blade, allowing different abilities to be used depending on the shooting method.
+- Viper Tail (Weight: 34.6g) [30, 20, 50, 0, 0] - Excellent at chipping away at the opponent's stamina from above with its six downwardly pointed blades.
+- Rhino Horn (Weight: 32.8g) [20, 50, 30, 0, 0] - The internal center of gravity structure is made of condensed metal on the inside, so it is designed to not lose its balance even with strong impacts.
+- Unicorn Sting (Weight: 33.2g) [35, 35, 40, 0, 0] - The left and right blades are designed with greatly different shapes, and have a structure that combines attack and defense.
+- Dranzer Spiral (Weight: 27.8g) [35, 30, 35, 0, 0] - A design with an emphasis on balance that produces high attack power and endurance with two horizontal blades.
+
+### Ratchets:
+- 3-60 [15, 9, 6, 0, 70]
+- 4-60 [11, 13, 6, 0, 60]
+- 5-60 [12, 9, 9, 0, 50]
+- 3-80 [15, 7, 8, 0, 30]
+- 4-80 [11, 11, 8, 0, 20]
+- 9-60 [13, 10, 7, 0, 100]
+
+### Bits:
+- F [40, 15, 10, 35, 80] - Flat: The flat shaft tip runs the Bey, making it easier to execute the X-Dash.
+- LF [45, 5, 10, 40, 80] - Low Flat: Designed 1mm lower than the F bit, increasing the acceleration of the X-Dash.
+- GF [50, 5, 5, 40, 80] - Gear Flat: The gear is designed to extend to the tip of the shaft, making it easier to connect to the X-line and achieving a faster X-Dash.
+- T [35, 20, 20, 25, 80] - Taper: Achieved both attack power in the early stages and stamina in the final stages with the narrowed axis.
+- P [25, 25, 25, 25, 80] - Point: With a flat shaft tip with a protrusion in the center, the movement changes from dynamic maneuver to static maneuver.
+- GP [30, 25, 15, 30, 80] - Gear Point: The P-bit gear is designed to extend to the tip, allowing for large changes in movement.
+- N [10, 50, 30, 10, 30] - Needle: The sharp tip of the shaft tilts the Bey, increasing counter performance.
+- HN [15, 55, 20, 10, 30] - High Needle: Designed 1mm higher than the N bit, increasing counter power due to tilt.
+- S [10, 45, 35, 10, 30] - Spike: Achieved both attack power in the early stages and stamina in the final stages with the narrowed axis.
+- B [15, 25, 50, 10, 30] - Ball: With its spherical shaft tip, it evades attacks with just the right amount of movement and achieves high stamina.
+- GB [10, 15, 45, 30, 30] - Gear Ball: It has a large spherical shaft that maintains its posture, and a gear extends all the way to the tip, allowing it to counter.
+
+##Lance Stock Builds:
+- Knight Lance 4-80HN
+- Leon Claw 5-60P
+- Wizard Arrow 4-80B
+- Shark Edge 3-60LF
+- Knight Shield 3-80N
+- Unicorn Sting 5-60GP
+- Viper Tail 5-60F
+- Phoenix Wing 9-60GF
+
+### Blades:
+- Knight Lance
+- Leon Claw
+- Wizard Arrow
+- Shark Edge
+- Knight Shield
+- Unicorn Sting
+- Viper Tail
+- Phoenix Wing
+### Ratchets:
+- 4-80
+- 5-60
+- 3-60
+- 3-80
+- 9-60
+### Bits:
+- HN
+- P
+- B
+- LF
+- N
+- GP
+- F
+- GF
+
+##Jason Stock Builds:
+- Dran Sword 3-60F
+- Rhino Horn 3-80S
+
+### Blades:
+- Dran Sword
+- Rhino Horn
+### Ratchets:
+- 3-60
+- 3-80
+### Bits:
+- F
+- S
+
+##Raphael Stock Builds:
+- Hells Scythe 4-60T
+- Dran Sword 3-80B
+- Viper Tail 4-60F
+- Viper Tail 3-80HN
+
+### Blades:
+- Dran Sword
+- Hell Scythe
+- Viper Tail
+### Ratchets:
+- 4-60
+- 3-80
+### Bits:
+- B
+- F
+- T
+- HN
+
+##Glenn Stock Builds:
+- Dranzer Spiral 3-80T
+- Dran Sword 3-60F
+- Phoenix Wing 9-60GF
+
+### Blades:
+- Dranzer Spiral
+- Dran Sword
+- Phoenix Wing
+### Ratchets:
+- 3-60
+- 3-80
+- 9-60
+### Bits:
+- GB
+- F
+- T
+- GF
