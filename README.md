@@ -70,7 +70,7 @@ Just take notes of all given information above then wait for additional data and
 - B [15, 25, 50, 10, 30] - Ball: With its spherical shaft tip, it evades attacks with just the right amount of movement and achieves high stamina.
 - GB [10, 15, 45, 30, 30] - Gear Ball: It has a large spherical shaft that maintains its posture, and a gear extends all the way to the tip, allowing it to counter.
 
-##Lance Stock Builds:
+## Lance Stock Builds:
 - Knight Lance 4-80HN
 - Leon Claw 5-60P
 - Wizard Arrow 4-80B
@@ -105,7 +105,7 @@ Just take notes of all given information above then wait for additional data and
 - F
 - GF
 
-##Jason Stock Builds:
+## Jason Stock Builds:
 - Dran Sword 3-60F
 - Rhino Horn 3-80S
 
@@ -119,7 +119,7 @@ Just take notes of all given information above then wait for additional data and
 - F
 - S
 
-##Raphael Stock Builds:
+## Raphael Stock Builds:
 - Hells Scythe 4-60T
 - Dran Sword 3-80B
 - Viper Tail 4-60F
@@ -138,7 +138,7 @@ Just take notes of all given information above then wait for additional data and
 - T
 - HN
 
-##Glenn Stock Builds:
+## Glenn Stock Builds:
 - Dranzer Spiral 3-80T
 - Dran Sword 3-60F
 - Phoenix Wing 9-60GF
