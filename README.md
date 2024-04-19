@@ -1,7 +1,7 @@
 Build the optimal team of 3 Beyblades by selecting from different combinations of "Blade," "Ratchet," and "Bit" parts. Each unique part must be used only once to create balanced teams. Take into account the specialties and stats of each part to address weaknesses and complement other parts for the best performance. Below are the available parts categorized by type:
 NOTE: Parameters are [Attack, Defense, Stamina, Dash, Burst Resistance]
 
-These are the main "Blade" parts that can be used each having a unique featured specialty. Wait for instruction which 1 specific Blade or 3 main Blades I am interested to use:
+These are the main "Blade" parts, each with a unique specialty. Please wait for instructions regarding the specific Blade or three main Blades I am interested in using.
 ### Blades:
 =====PASTE APPLICABLE BLADE PARTS HERE=====
 
@@ -9,7 +9,7 @@ The "Ratchets" serve as the central body of the Beyblade. The first digit before
 ### Ratchets:
 =====PASTE APPLICABLE RATCHET PARTS HERE=====
 
-The "Bit" parts refer to the tip under the Beyblade, influencing its dash movement/behavior and burstability based on their stats. Keep in mind that Beyblades can burst during battles and utilize the X-Dash mechanic on the stadium.
+The "Bit" parts refer to the tip under the Beyblade, influencing its dash movement and behavior, as well as its burstability based on their stats. Keep in mind that Beyblades can burst during battles and utilize the X-Dash mechanic on the stadium.
 ### Bits:
 =====PASTE APPLICABLE BIT PARTS HERE=====
 
@@ -17,24 +17,22 @@ Important Notes:
 - While stats are crucial, they shouldn't be the sole basis for Beyblade builds. Consider the weight, featured specialty of Blade and/or Bit parts, Burst Resistance, and intended playstyle.
 - The Burst Resistance value in the Bit part's 5th stat parameter is either High-enduring (80) or Low-enduring (30), significantly affecting the Beyblade's ability to withstand bursts. Using a more enduring Ratchet part can offset this difference.
 - Taller Ratchets (?-80)/8.0mm can enhance Attack Hit performance but may increase the risk of bursting.
-- Stamina may last longer with a shorter Ratchet (?-60)/6.0mm height unless paired with Blade and/or Bit with good Stamina stats value.
-- Higher Dash stats value in the Bit part's 4th stat parameter can enhance Attack Hit performance but may reduce Stamina. Consider this trade-off based on your desired playstyle.
-- Always consider whether how high/low a specific stat value in comparison to the available range of stat values for that specific stat among all Beyblade parts during building process.
+- Stamina may last longer with a shorter Ratchet (?-60)/6.0mm height unless paired with Blade and/or Bit with a good Stamina stat value.
+- A higher Dash stat value in the Bit part's 4th stat parameter can enhance Attack Hit performance but may reduce Stamina. Consider this trade-off based on your desired playstyle.
+- Always consider how high/low a specific stat value is in comparison to the available range of stat values for that specific stat among all Beyblade parts during the building process."
 
 Then include the Total Overall Stats: [Attack, Defense, Stamina, Dash, Burst Resistance]
-Formula: Just add total Stat values each from Blade, Ratchet, and Bit part.
+Formula: Simply add up the total stat values from each Blade, Ratchet, and Bit part.
 
-List the final build combos using this exact naming convention below and overall stat.
-Additionally, describe in-depth the playstyle, win condition, and the reasoning behind the build of each Beyblade.
+List the final build combos using the exact naming convention below along with the overall stats. Additionally, provide an in-depth description of the playstyle, win condition, and the reasoning behind the build of each Beyblade.
 Example:
 **Phoenix Wing 3-60P [105, 64, 71, 25, 150]**
  - **Playstyle:** This Beyblade leans towards an aggressive playstyle, utilizing its strong attack power and dynamic maneuverability.
  - **Win Condition:** The win condition for this build is to overwhelm opponents with relentless attacks while maintaining enough stamina to outlast them.
  - **Reasoning:** The Phoenix Wing blade provides significant attack power, allowing for powerful strikes against opponents. The 3-60 Ratchet balances stability and burst resistance, crucial for aggressive playstyles. The P Bit enhances movement for dynamic maneuvers and attack hits. Overall, this build combines attack prowess with strategic maneuverability and stability.
 
-Just take notes of all given information above then wait for additional data and go signal before generating anything.
+=====COPY PARTS FROM HERE BELOW=====
 
-=====COPY PARTS FROM HERE=====
 ### Blades:
 - Dran Sword (Weight: 34.8g) [55, 25, 20, 0, 0] - Excellent at flipping the opponent diagonally upwards with its three upper blades.
 - Hell Scythe (Weight: 32.7g) [30, 35, 35, 0, 0] - Excellent at breaking the opponent's balance with four smash blades.
@@ -70,6 +68,8 @@ Just take notes of all given information above then wait for additional data and
 - B [15, 25, 50, 10, 30] - Ball: With its spherical shaft tip, it evades attacks with just the right amount of movement and achieves high stamina.
 - GB [10, 15, 45, 30, 30] - Gear Ball: It has a large spherical shaft that maintains its posture, and a gear extends all the way to the tip, allowing it to counter.
 
+=====COPY PARTS FROM HERE ABOVE=====
+
 ## Lance Stock Builds:
 - Knight Lance 4-80HN
 - Leon Claw 5-60P
@@ -89,12 +89,14 @@ Just take notes of all given information above then wait for additional data and
 - Unicorn Sting
 - Viper Tail
 - Phoenix Wing
+
 ### Ratchets:
 - 4-80
 - 5-60
 - 3-60
 - 3-80
 - 9-60
+
 ### Bits:
 - HN
 - P
@@ -112,9 +114,11 @@ Just take notes of all given information above then wait for additional data and
 ### Blades:
 - Dran Sword
 - Rhino Horn
+
 ### Ratchets:
 - 3-60
 - 3-80
+
 ### Bits:
 - F
 - S
@@ -129,9 +133,11 @@ Just take notes of all given information above then wait for additional data and
 - Dran Sword
 - Hell Scythe
 - Viper Tail
+
 ### Ratchets:
 - 4-60
 - 3-80
+
 ### Bits:
 - B
 - F
@@ -147,10 +153,12 @@ Just take notes of all given information above then wait for additional data and
 - Dranzer Spiral
 - Dran Sword
 - Phoenix Wing
+
 ### Ratchets:
 - 3-60
 - 3-80
 - 9-60
+
 ### Bits:
 - GB
 - F
