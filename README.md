@@ -40,17 +40,20 @@ Example:
 - Knight Shield (Weight: 32.3g) [20, 55, 25, 0, 0] - Adopts a damper structure that easily absorbs shock with 6 defensive blades
 - Knight Lance (Weight: 32.9g) [25, 60, 15, 0, 0] - The blade is designed to be positioned high, making it excellent at suppressing the opponent's attacks.
 - Shark Edge (Weight: 34.6g) [60, 25, 25, 0, 0] - Designed to penetrate into the opponent's pocket with a steeply angled upper blade and bounce up from a low position
-- Phoenix Wing (Weight: 37.9g) [65, 30, 20, 0, 0] - Strongly repels the opponent with three heavy blades.
 - Leon Claw (Weight: 31.5g) [40, 40, 20, 0, 0] - Designed to have both an attack blade and a defense blade, allowing different abilities to be used depending on the shooting method.
 - Viper Tail (Weight: 34.6g) [30, 20, 50, 0, 0] - Excellent at chipping away at the opponent's stamina from above with its six downwardly pointed blades.
 - Rhino Horn (Weight: 32.8g) [20, 50, 30, 0, 0] - The internal center of gravity structure is made of condensed metal on the inside, so it is designed to not lose its balance even with strong impacts.
+- Phoenix Wing (Weight: 37.9g) [65, 30, 20, 0, 0] - Strongly repels the opponent with three heavy blades.
 - Unicorn Sting (Weight: 33.2g) [35, 35, 40, 0, 0] - The left and right blades are designed with greatly different shapes, and have a structure that combines attack and defense.
+- Hells Hammer (Weight: 33.2g) [50, 25, 25, 0, 0] - A thick smash blade designed specifically for slamming opponents into the stadium.
 - Dranzer Spiral (Weight: 27.8g) [35, 30, 35, 0, 0] - A design with an emphasis on balance that produces high attack power and endurance with two horizontal blades.
 
 ### Ratchets:
+- 1-60 [17, 9, 4, 0, 80]
 - 3-60 [15, 9, 6, 0, 70]
 - 4-60 [11, 13, 6, 0, 60]
 - 5-60 [12, 9, 9, 0, 50]
+- 3-70 [15, 8, 7, 0, 100]
 - 3-80 [15, 7, 8, 0, 30]
 - 4-80 [11, 11, 8, 0, 20]
 - 9-60 [13, 10, 7, 0, 100]
@@ -59,9 +62,11 @@ Example:
 - F [40, 15, 10, 35, 80] - Flat: The flat shaft tip runs the Bey, making it easier to execute the X-Dash.
 - LF [45, 5, 10, 40, 80] - Low Flat: Designed 1mm lower than the F bit, increasing the acceleration of the X-Dash.
 - GF [50, 5, 5, 40, 80] - Gear Flat: The gear is designed to extend to the tip of the shaft, making it easier to connect to the X-line and achieving a faster X-Dash.
+- A [40, 10, 10, 40, 80] - Accel: The design combines a flat shaft tip with a large gear to enhance the performance of the X-Dash.
 - T [35, 20, 20, 25, 80] - Taper: Achieved both attack power in the early stages and stamina in the final stages with the narrowed axis.
 - P [25, 25, 25, 25, 80] - Point: With a flat shaft tip with a protrusion in the center, the movement changes from dynamic maneuver to static maneuver.
 - GP [30, 25, 15, 30, 80] - Gear Point: The P-bit gear is designed to extend to the tip, allowing for large changes in movement.
+- H [30, 35, 20, 15, 80] - Hexa: The planar shape of the shaft tip suppresses the tilt of the bay and is designed to always maintain a stable system.
 - N [10, 50, 30, 10, 30] - Needle: The sharp tip of the shaft tilts the Bey, increasing counter performance.
 - HN [15, 55, 20, 10, 30] - High Needle: Designed 1mm higher than the N bit, increasing counter power due to tilt.
 - S [10, 45, 35, 10, 30] - Spike: Achieved both attack power in the early stages and stamina in the final stages with the narrowed axis.
@@ -110,57 +115,72 @@ Example:
 ## Jason Stock Builds:
 - Dran Sword 3-60F
 - Rhino Horn 3-80S
+- Hells Hammer 3-70H
 
 ### Blades:
 - Dran Sword
 - Rhino Horn
+- Hells Hammer
 
 ### Ratchets:
 - 3-60
 - 3-80
+- 3-70
 
 ### Bits:
 - F
 - S
+- H
 
 ## Raphael Stock Builds:
 - Hells Scythe 4-60T
 - Dran Sword 3-80B
 - Viper Tail 4-60F
 - Viper Tail 3-80HN
+- Hells Hammer 3-70H
+- Hells Chain 5-60HT
+- Knight Lance 3-60LF
+- Wizard Arrow 4-80N
 
 ### Blades:
 - Dran Sword
 - Hell Scythe
 - Viper Tail
+- Hells Hammer
 
 ### Ratchets:
 - 4-60
 - 3-80
+- 3-70
 
 ### Bits:
 - B
 - F
 - T
 - HN
+- H
 
 ## Glenn Stock Builds:
 - Dranzer Spiral 3-80T
 - Dran Sword 3-60F
 - Phoenix Wing 9-60GF
+- Dran Buster 1-60A
 
 ### Blades:
 - Dranzer Spiral
 - Dran Sword
 - Phoenix Wing
+- Dran Buster
 
 ### Ratchets:
 - 3-60
 - 3-80
 - 9-60
+- 1-60
 
 ### Bits:
 - GB
 - F
 - T
 - GF
+- A
