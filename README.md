@@ -47,18 +47,21 @@ Example:
 - Rhino Horn (Weight: 32.8g) [20, 50, 30, 0, 0] - The internal center of gravity structure is made of condensed metal on the inside, so it is designed to not lose its balance even with strong impacts.
 - Phoenix Wing (Weight: 37.9g) [65, 30, 20, 0, 0] - Strongly repels the opponent with three heavy blades.
 - Unicorn Sting (Weight: 33.2g) [35, 35, 40, 0, 0] - The left and right blades are designed with greatly different shapes, and have a structure that combines attack and defense.
+- Dran Buster (Weight: 36.6g) [70, 20, 10, 0, 0] - It has a large protruding attack blade that is specially designed to knock away the opponent with a single blow.
 - Hells Hammer (Weight: 33.2g) [50, 25, 25, 0, 0] - A thick smash blade designed specifically for slamming opponents into the stadium.
+- Wizard Rod (Weight: 35.4g) [15, 25, 60, 0, 0] - With a 5-blade shape with an external center of gravity and a large diameter, it is specially designed to generate centrifugal force.
 - Dranzer Spiral (Weight: 27.8g) [35, 30, 35, 0, 0] - A design with an emphasis on balance that produces high attack power and endurance with two horizontal blades.
 
 ### Ratchets:
+- 9-60 [13, 10, 7, 0, 100]
 - 1-60 [17, 9, 4, 0, 80]
 - 3-60 [15, 9, 6, 0, 70]
 - 4-60 [11, 13, 6, 0, 60]
 - 5-60 [12, 9, 9, 0, 50]
-- 3-70 [15, 8, 7, 0, 100]
+- 3-70 [15, 8, 7, 0, 50]
+- 5-70 [17, 8.5, 9.5, 0, 30]
 - 3-80 [15, 7, 8, 0, 30]
 - 4-80 [11, 11, 8, 0, 20]
-- 9-60 [13, 10, 7, 0, 100]
 
 ### Bits:
 - F [40, 15, 10, 35, 80] - Flat: The flat shaft tip runs the Bey, making it easier to execute the X-Dash.
@@ -74,6 +77,7 @@ Example:
 - S [10, 45, 35, 10, 30] - Spike: Achieved both attack power in the early stages and stamina in the final stages with the narrowed axis.
 - B [15, 25, 50, 10, 30] - Ball: With its spherical shaft tip, it evades attacks with just the right amount of movement and achieves high stamina.
 - GB [10, 15, 45, 30, 30] - Gear Ball: It has a large spherical shaft that maintains its posture, and a gear extends all the way to the tip, allowing it to counter.
+- DB [5, 20, 55, 10, 30] - Disk Ball: A B-bit with a disc-shaped weight attached to it, designed to generate centrifugal force and sticky rotation.
 
 =====COPY PARTS FROM HERE ABOVE=====
 
@@ -86,53 +90,13 @@ Example:
 - Unicorn Sting 5-60GP
 - Viper Tail 5-60F
 - Phoenix Wing 9-60GF
-
-### Blades:
-- Knight Lance
-- Leon Claw
-- Wizard Arrow
-- Shark Edge
-- Knight Shield
-- Unicorn Sting
-- Viper Tail
-- Phoenix Wing
-
-### Ratchets:
-- 4-80
-- 5-60
-- 3-60
-- 3-80
-- 9-60
-
-### Bits:
-- HN
-- P
-- B
-- LF
-- N
-- GP
-- F
-- GF
+- Wizard Rod 5-70DB
 
 ## Jason Stock Builds:
 - Dran Sword 3-60F
 - Rhino Horn 3-80S
 - Hells Hammer 3-70H
-
-### Blades:
-- Dran Sword
-- Rhino Horn
-- Hells Hammer
-
-### Ratchets:
-- 3-60
-- 3-80
-- 3-70
-
-### Bits:
-- F
-- S
-- H
+- Wizard Rod 5-70DB
 
 ## Raphael Stock Builds:
 - Hells Scythe 4-60T
@@ -143,46 +107,15 @@ Example:
 - Hells Chain 5-60HT
 - Knight Lance 3-60LF
 - Wizard Arrow 4-80N
-
-### Blades:
-- Dran Sword
-- Hell Scythe
-- Viper Tail
-- Hells Hammer
-
-### Ratchets:
-- 4-60
-- 3-80
-- 3-70
-
-### Bits:
-- B
-- F
-- T
-- HN
-- H
+- Wizard Rod 5-70DB
 
 ## Glenn Stock Builds:
 - Dranzer Spiral 3-80T
 - Dran Sword 3-60F
 - Phoenix Wing 9-60GF
 - Dran Buster 1-60A
-
-### Blades:
-- Dranzer Spiral
-- Dran Sword
-- Phoenix Wing
-- Dran Buster
-
-### Ratchets:
-- 3-60
-- 3-80
-- 9-60
-- 1-60
-
-### Bits:
-- GB
-- F
-- T
-- GF
-- A
+- Dran Dagger 4-60R
+- Knight Shield 5-80T
+- Shark Edge 3-80F
+- Wizard Rod 5-70DB
+- Hells Hammer 3-70H
