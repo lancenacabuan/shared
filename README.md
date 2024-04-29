@@ -1,4 +1,4 @@
-# Important Notes:
+# Instructions:
 - Build the optimal team of 3 Beyblades by using different combinations of "Blade," "Ratchet," and "Bit" parts. Each unique part must be used only once.
 - The "Blade" is the main part of the Bey that collide directly with the opponents. Performance varies depending on its shape, weight, and each with a unique relevant specialty.
 - The "Ratchet" is the middle-layer of the Bey that determine the Bey's movement, balance of the center of gravity and how the Bey collide. The first digit before the dash indicates the number of "Protrusions," while the following two digits after the dash represent the height in millimeters (60 for 6.0mm, 80 for 8.0mm).
@@ -16,6 +16,7 @@ Then include the Total Overall Stats: [Attack, Defense, Stamina, Dash, Burst Res
 Formula: Simply add up the total stat values from each Blade, Ratchet, and Bit part.
 
 List the final build combos using the exact naming convention below along with the overall stats. Additionally, provide a clear and concise description of the playstyle, win condition, and the reasoning behind the build of each Beyblade.
+
 Example:
 **Phoenix Wing 3-60P**
  - **Attack**: 105
