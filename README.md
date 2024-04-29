@@ -1,21 +1,10 @@
-Build the optimal team of 3 Beyblades by selecting from below different combinations of "Blade," "Ratchet," and "Bit" parts:
-NOTE: Stat Parameters are [Attack, Defense, Stamina, Dash, Burst Resistance]
-
-### Blades:
-These are the main "Blade" parts, each with a unique specialty. Please wait for instructions regarding the specific 1 Blade or 3 main Blades I am interested in using.
-=====PASTE APPLICABLE BLADE PARTS HERE=====
-
-### Ratchets:
-The "Ratchets" serve as the central body of the Beyblade. The first digit before the dash indicates the number of "Protrusions," while the following two digits after the dash represent the height in millimeters (60 for 6.0mm, 80 for 8.0mm).
-=====PASTE APPLICABLE RATCHET PARTS HERE=====
-
-### Bits:
-The "Bit" parts refer to the tip under the Beyblade, influencing its dash movement and behavior, as well as its burstability based on their stats. Keep in mind that Beyblades can burst during battles and utilize the X-Dash mechanic on the stadium.
-=====PASTE APPLICABLE BIT PARTS HERE=====
-
-Important Notes:
-- Each unique part must be used only once.
-- Take into account the specialties and stats of each part to address weaknesses and complement other parts for the best performance.
+# Important Notes:
+- Build the optimal team of 3 Beyblades by using different combinations of "Blade," "Ratchet," and "Bit" parts. Each unique part must be used only once.
+- The "Blade" is the main part of the Bey that collide directly with the opponents. Performance varies depending on its shape, weight, and each with a unique relevant specialty.
+- The "Ratchet" is the middle-layer of the Bey that determine the Bey's movement, balance of the center of gravity and how the Bey collide. The first digit before the dash indicates the number of "Protrusions," while the following two digits after the dash represent the height in millimeters (60 for 6.0mm, 80 for 8.0mm).
+- The "Bit" is the shaft tip part determines the movement of the Beyblade. Dash performance and burst resistance are depending on the type of bit. Keep in mind that Beyblades can burst during battles and utilize the X-Dash mechanic on the stadium.
+- Stat Parameters are [Attack, Defense, Stamina, Dash, Burst Resistance].
+- Take into account the indicated specialties and stats of each part to address weaknesses and complement other parts for the best performance.
 - While stats are crucial, they shouldn't be the sole basis for Beyblade builds. Consider also the weight of Blade, featured specialty of Blade and Bit parts, overall Burst Resistance, and intended playstyle.
 - The Burst Resistance value in the Bit part's 5th stat parameter is either High-enduring (80) or Low-enduring (30), significantly affecting the Beyblade's ability to withstand bursts. Using a more enduring Ratchet part can offset this difference.
 - Taller Ratchets (?-80)/8.0mm can enhance Attack Hit performance but may increase the risk of bursting especially those with more Protrusions (except 9-?? variants).
@@ -28,7 +17,12 @@ Formula: Simply add up the total stat values from each Blade, Ratchet, and Bit p
 
 List the final build combos using the exact naming convention below along with the overall stats. Additionally, provide a clear and concise description of the playstyle, win condition, and the reasoning behind the build of each Beyblade.
 Example:
-**Phoenix Wing 3-60P [105, 64, 71, 25, 150]**
+**Phoenix Wing 3-60P**
+ - **Attack**: 105
+ - **Defense**: 64
+ - **Stamina**: 71
+ - **Dash**: 25
+ - **Burst Resistance**: 150
  - **Playstyle:** This Beyblade leans towards an aggressive playstyle, utilizing its strong attack power and dynamic maneuverability.
  - **Win Condition:** The win condition for this build is to overwhelm opponents with relentless attacks while maintaining enough stamina to outlast them.
  - **Reasoning:** The Phoenix Wing blade provides significant attack power, allowing for powerful strikes against opponents. The 3-60 Ratchet balances stability and burst resistance, crucial for aggressive playstyles. The "P" Bit enhances movement for dynamic maneuvers and attack hits. Overall, this build combines attack prowess with strategic maneuverability and stability.
@@ -62,20 +56,29 @@ Example:
 - 5-70 [17, 8.5, 9.5, 0, 30]
 - 3-80 [15, 7, 8, 0, 30]
 - 4-80 [11, 11, 8, 0, 20]
+- 5-80 [12, 8, 10, 0, 10]
 
 ### Bits:
+## Attack-Type:
 - F [40, 15, 10, 35, 80] - Flat: The flat shaft tip runs the Bey, making it easier to execute the X-Dash.
 - LF [45, 5, 10, 40, 80] - Low Flat: Designed 1mm lower than the F bit, increasing the acceleration of the X-Dash.
 - GF [50, 5, 5, 40, 80] - Gear Flat: The gear is designed to extend to the tip of the shaft, making it easier to connect to the X-line and achieving a faster X-Dash.
 - A [40, 10, 10, 40, 80] - Accel: The design combines a flat shaft tip with a large gear to enhance the performance of the X-Dash.
+
+## Balanced-Type:
 - T [35, 20, 20, 25, 80] - Taper: Achieved both attack power in the early stages and stamina in the final stages with the narrowed axis.
 - P [25, 25, 25, 25, 80] - Point: With a flat shaft tip with a protrusion in the center, the movement changes from dynamic maneuver to static maneuver.
 - GP [30, 25, 15, 30, 80] - Gear Point: The P-bit gear is designed to extend to the tip, allowing for large changes in movement.
 - H [30, 35, 20, 15, 80] - Hexa: The planar shape of the shaft tip suppresses the tilt of the bay and is designed to always maintain a stable system.
+
+## Defense-Type:
 - N [10, 50, 30, 10, 30] - Needle: The sharp tip of the shaft tilts the Bey, increasing counter performance.
 - HN [15, 55, 20, 10, 30] - High Needle: Designed 1mm higher than the N bit, increasing counter power due to tilt.
 - S [10, 45, 35, 10, 30] - Spike: Achieved both attack power in the early stages and stamina in the final stages with the narrowed axis.
+
+## Stamina-Type:
 - B [15, 25, 50, 10, 30] - Ball: With its spherical shaft tip, it evades attacks with just the right amount of movement and achieves high stamina.
+- O [10, 10, 50, 10, 30] - Orb: The small and semicircular shaft tip reduces friction and increases endurance performance.
 - GB [10, 15, 45, 30, 30] - Gear Ball: It has a large spherical shaft that maintains its posture, and a gear extends all the way to the tip, allowing it to counter.
 - DB [5, 20, 55, 10, 30] - Disk Ball: A B-bit with a disc-shaped weight attached to it, designed to generate centrifugal force and sticky rotation.
 
@@ -92,12 +95,6 @@ Example:
 - Phoenix Wing 9-60GF
 - Wizard Rod 5-70DB
 
-## Jason Stock Builds:
-- Dran Sword 3-60F
-- Rhino Horn 3-80S
-- Hells Hammer 3-70H
-- Wizard Rod 5-70DB
-
 ## Raphael Stock Builds:
 - Hells Scythe 4-60T
 - Dran Sword 3-80B
@@ -107,6 +104,7 @@ Example:
 - Hells Chain 5-60HT
 - Knight Lance 3-60LF
 - Wizard Arrow 4-80N
+- Phoenix Wing 9-60GF
 - Wizard Rod 5-70DB
 
 ## Glenn Stock Builds:
@@ -119,3 +117,22 @@ Example:
 - Shark Edge 3-80F
 - Wizard Rod 5-70DB
 - Hells Hammer 3-70H
+
+## Jason Stock Builds:
+- Dran Sword 3-60F
+- Rhino Horn 3-80S
+- Hells Hammer 3-70H
+- Wizard Rod 5-70DB
+
+## Jossell Stock Builds:
+- Hells Scythe 4-80LF
+- Shark Edge 4-80N
+- Viper Tail 5-80O
+- Phoenix Wing 9-60GF
+- Wizard Arrow 3-60T
+- Unicorn Sting 5-60GP
+- Dran Sword 3-60F
+- Wizard Arrow 4-80B
+- Dranzer Spiral 3-80T
+- Rhino Horn 3-80S
+- Wizard Rod 5-70DB
