@@ -1,34 +1,25 @@
-# Instructions:
-- Build the optimal team of 3 Beyblades by using different combinations of "Blade," "Ratchet," and "Bit" parts. Each unique part must be used only once.
-- The "Blade" is the main part of the Bey that collide directly with the opponents. Performance varies depending on its shape, weight, and each with a unique relevant specialty.
-- The "Ratchet" is the middle-layer of the Bey that determine the Bey's movement, balance of the center of gravity and how the Bey collide. The first digit before the dash indicates the number of "Protrusions," while the following two digits after the dash represent the height in millimeters (60 for 6.0mm, 80 for 8.0mm).
-- The "Bit" is the shaft tip part determines the movement of the Beyblade. Dash performance and burst resistance are depending on the type of bit. Keep in mind that Beyblades can burst during battles and utilize the X-Dash mechanic on the stadium.
-- Stat Parameters are [Attack, Defense, Stamina, Dash, Burst Resistance].
-- Take into account the indicated specialties and stats of each part to address weaknesses and complement other parts for the best performance.
-- While stats are crucial, they shouldn't be the sole basis for Beyblade builds. Consider also the weight of Blade, featured specialty of Blade and Bit parts, overall Burst Resistance, and intended playstyle.
-- The Burst Resistance value in the Bit part's 5th stat parameter is either High-enduring (80) or Low-enduring (30), significantly affecting the Beyblade's ability to withstand bursts. Using a more enduring Ratchet part can offset this difference.
-- Taller Ratchets (?-80)/8.0mm can enhance Attack Hit performance but may increase the risk of bursting especially those with more Protrusions (except 9-?? variants).
-- Stamina may last longer with a shorter Ratchet (?-60)/6.0mm height unless paired with Blade and/or Bit with a good Stamina stat value.
-- A higher Dash stat value in the Bit part's 4th stat parameter can enhance Attack Hit performance but may reduce Stamina. Consider this trade-off based on your desired playstyle.
-- Always consider how high/low each specific stat value is in comparison to the available range of stat values for that specific stat among all Beyblade parts during the building process.
-
-Then include the Total Overall Stats: [Attack, Defense, Stamina, Dash, Burst Resistance]
-Formula: Simply add up the total stat values from each Blade, Ratchet, and Bit part.
-
-List the final build combos using the exact naming convention below along with the overall stats. Additionally, provide a clear and concise description of the playstyle, win condition, and the reasoning behind the build of each Beyblade.
+# Instructions for Building an Optimal Beyblade Team:
+- Build a team of 3 Beyblades using different combinations of "Blade," "Ratchet," and "Bit" parts. Each part must be unique and used only once.
+- The "Blade" is the main part that collides directly with opponents. Its performance varies based on shape, weight, and unique specialty.
+- The "Ratchet" is the middle layer that determines movement, balance, and collision. The first digit before the dash shows "Protrusions," and the following digits indicate height in millimeters (e.g., ?-60 for 6.0mm, ?-80 for 8.0mm).
+- The "Bit" is the shaft tip that controls movement, dash performance, and burst resistance. Note that Beyblades can burst during battles and use the X-Dash mechanic on the stadium.
+- Consider each part's specialties, stats, and weaknesses to optimize performance and complement other parts.
+- Burst Resistance is indicated as High-enduring (80) or Low-enduring (30) in the Bit's 5th stat. Choose an enduring Ratchet part to balance burst resistance.
+- Taller Ratchets (?-80) enhance Attack Hit but increase burst risk (except 9-?? variants). Shorter Ratchets (?-60) may boost Stamina unless paired with suitable Blade and Bit stats.
+- Higher Dash stat improves Attack Hit but may lower Stamina. Balance this based on playstyle.
+- Calculate Total Overall Stats by adding up parameter values accordingly from Blade, Ratchet, and Bit parts.
+- List final builds using the naming convention below with overall stats and describe playstyle, win condition, and reasoning for each Beyblade.
 
 Example:
-**Phoenix Wing 3-60P**
- - **Attack**: 105
- - **Defense**: 64
- - **Stamina**: 71
- - **Dash**: 25
- - **Burst Resistance**: 150
+**Phoenix Wing 3-60P [105, 64, 51, 25, 150]**
  - **Playstyle:** This Beyblade leans towards an aggressive playstyle, utilizing its strong attack power and dynamic maneuverability.
  - **Win Condition:** The win condition for this build is to overwhelm opponents with relentless attacks while maintaining enough stamina to outlast them.
  - **Reasoning:** The Phoenix Wing blade provides significant attack power, allowing for powerful strikes against opponents. The 3-60 Ratchet balances stability and burst resistance, crucial for aggressive playstyles. The "P" Bit enhances movement for dynamic maneuvers and attack hits. Overall, this build combines attack prowess with strategic maneuverability and stability.
 
 =====COPY PARTS FROM HERE BELOW=====
+
+Take note of these Beyblade parts information then wait for my instructions.
+- Stat Parameters are [Attack, Defense, Stamina, Dash, Burst Resistance]
 
 ### Blades:
 - Dran Sword (Weight: 34.8g) [55, 25, 20, 0, 0] - Excellent at flipping the opponent diagonally upwards with its three upper blades.
