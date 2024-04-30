@@ -1,25 +1,26 @@
-# Instructions for Building an Optimal Beyblade Team:
+# Instructions:
 - Build a team of 3 Beyblades using different combinations of "Blade," "Ratchet," and "Bit" parts. Each part must be unique and used only once.
 - The "Blade" is the main part that collides directly with opponents. Its performance varies based on shape, weight, and unique specialty.
 - The "Ratchet" is the middle layer that determines movement, balance, and collision. The first digit before the dash shows "Protrusions," and the following digits indicate height in millimeters (e.g., ?-60 for 6.0mm, ?-80 for 8.0mm).
 - The "Bit" is the shaft tip that controls movement, dash performance, and burst resistance. Note that Beyblades can burst during battles and use the X-Dash mechanic on the stadium.
-- Consider each part's specialties, stats, and weaknesses to optimize performance and complement other parts.
-- Burst Resistance is indicated as High-enduring (80) or Low-enduring (30) in the Bit's 5th stat. Choose an enduring Ratchet part to balance burst resistance.
-- Taller Ratchets (?-80) enhance Attack Hit but increase burst risk (except 9-?? variants). Shorter Ratchets (?-60) may boost Stamina unless paired with suitable Blade and Bit stats.
-- Higher Dash stat improves Attack Hit but may lower Stamina. Balance this based on playstyle.
-- Calculate Total Overall Stats by adding up parameter values accordingly from Blade, Ratchet, and Bit parts.
-- List final builds using the naming convention below with overall stats and describe playstyle, win condition, and reasoning for each Beyblade.
+- Consider each part's unique specialties, stats, and weaknesses to optimize performance complementing other parts based on desired playstyles.
+- List final build/s using the naming convention below then describe playstyle, win condition, and reasoning for each Beyblade.
 
 Example:
-**Phoenix Wing 3-60P [105, 64, 51, 25, 150]**
+**Phoenix Wing 3-60P**
  - **Playstyle:** This Beyblade leans towards an aggressive playstyle, utilizing its strong attack power and dynamic maneuverability.
  - **Win Condition:** The win condition for this build is to overwhelm opponents with relentless attacks while maintaining enough stamina to outlast them.
  - **Reasoning:** The Phoenix Wing blade provides significant attack power, allowing for powerful strikes against opponents. The 3-60 Ratchet balances stability and burst resistance, crucial for aggressive playstyles. The "P" Bit enhances movement for dynamic maneuvers and attack hits. Overall, this build combines attack prowess with strategic maneuverability and stability.
 
-=====COPY PARTS FROM HERE BELOW=====
-
+# Parts:
 Take note of these Beyblade parts information then wait for my instructions.
 - Stat Parameters are [Attack, Defense, Stamina, Dash, Burst Resistance]
+- Calculate Total Overall Stats by adding up parameter values accordingly from Blade, Ratchet, and Bit parts using formula below:
+  - Attack = Total Attack from Blade, Ratchet, Bit
+  - Defense = Total Defense from Blade, Ratchet, Bit
+  - Stamina = Total Stamina from Blade, Ratchet, Bit
+  - Dash = Total Dash from Blade, Ratchet, Bit
+  - Burst Resistance = Total Burst Resistance from Blade, Ratchet, Bit
 
 ### Blades:
 - Dran Sword (Weight: 34.8g) [55, 25, 20, 0, 0] - Excellent at flipping the opponent diagonally upwards with its three upper blades.
@@ -27,10 +28,12 @@ Take note of these Beyblade parts information then wait for my instructions.
 - Wizard Arrow (Weight: 32.0g) [15, 30, 55, 0, 0] - Designed with an outer center of gravity that generates strong centrifugal force with two large circular blades.
 - Knight Shield (Weight: 32.3g) [20, 55, 25, 0, 0] - Adopts a damper structure that easily absorbs shock with 6 defensive blades
 - Knight Lance (Weight: 32.9g) [25, 60, 15, 0, 0] - The blade is designed to be positioned high, making it excellent at suppressing the opponent's attacks.
-- Shark Edge (Weight: 34.6g) [60, 25, 25, 0, 0] - Designed to penetrate into the opponent's pocket with a steeply angled upper blade and bounce up from a low position
+- Shark Edge (Weight: 34.6g) [60, 25, 25, 0, 0] - Designed to penetrate into the opponent's pocket with a steeply angled upper blade and bounce up from a low position.
 - Leon Claw (Weight: 31.5g) [40, 40, 20, 0, 0] - Designed to have both an attack blade and a defense blade, allowing different abilities to be used depending on the shooting method.
 - Viper Tail (Weight: 34.6g) [30, 20, 50, 0, 0] - Excellent at chipping away at the opponent's stamina from above with its six downwardly pointed blades.
 - Rhino Horn (Weight: 32.8g) [20, 50, 30, 0, 0] - The internal center of gravity structure is made of condensed metal on the inside, so it is designed to not lose its balance even with strong impacts.
+- Dran Dagger (Weight: 34.7g) [50, 25, 25, 0, 0] - Rushes at the opponent with it's 6 attack blades.
+- Hells Chain (Weight: 33.2g) [35, 40, 20, 0, 0] - An upper and lower blade allows it to handle opponents of all heights.
 - Phoenix Wing (Weight: 37.9g) [65, 30, 20, 0, 0] - Strongly repels the opponent with three heavy blades.
 - Unicorn Sting (Weight: 33.2g) [35, 35, 40, 0, 0] - The left and right blades are designed with greatly different shapes, and have a structure that combines attack and defense.
 - Dran Buster (Weight: 36.6g) [70, 20, 10, 0, 0] - It has a large protruding attack blade that is specially designed to knock away the opponent with a single blow.
@@ -54,12 +57,14 @@ Take note of these Beyblade parts information then wait for my instructions.
 ## Attack-Type:
 - F [40, 15, 10, 35, 80] - Flat: The flat shaft tip runs the Bey, making it easier to execute the X-Dash.
 - LF [45, 5, 10, 40, 80] - Low Flat: Designed 1mm lower than the F bit, increasing the acceleration of the X-Dash.
+- R [40, 10, 25, 30, 80] - Rush: Designed to increase the number of dashes by suppressing the speed of the X dash with the 10-blade gear.
 - GF [50, 5, 5, 40, 80] - Gear Flat: The gear is designed to extend to the tip of the shaft, making it easier to connect to the X-line and achieving a faster X-Dash.
 - A [40, 10, 10, 40, 80] - Accel: The design combines a flat shaft tip with a large gear to enhance the performance of the X-Dash.
 
 ## Balanced-Type:
 - T [35, 20, 20, 25, 80] - Taper: Achieved both attack power in the early stages and stamina in the final stages with the narrowed axis.
 - P [25, 25, 25, 25, 80] - Point: With a flat shaft tip with a protrusion in the center, the movement changes from dynamic maneuver to static maneuver.
+- HT [30, 25, 20, 25, 80] - High Taper: Designed 1mm higher than the T-bit, it has both smash power and endurance.
 - GP [30, 25, 15, 30, 80] - Gear Point: The P-bit gear is designed to extend to the tip, allowing for large changes in movement.
 - H [30, 35, 20, 15, 80] - Hexa: The planar shape of the shaft tip suppresses the tilt of the bay and is designed to always maintain a stable system.
 
@@ -73,8 +78,6 @@ Take note of these Beyblade parts information then wait for my instructions.
 - O [10, 10, 50, 10, 30] - Orb: The small and semicircular shaft tip reduces friction and increases endurance performance.
 - GB [10, 15, 45, 30, 30] - Gear Ball: It has a large spherical shaft that maintains its posture, and a gear extends all the way to the tip, allowing it to counter.
 - DB [5, 20, 55, 10, 30] - Disk Ball: A B-bit with a disc-shaped weight attached to it, designed to generate centrifugal force and sticky rotation.
-
-=====COPY PARTS FROM HERE ABOVE=====
 
 ## Lance Stock Builds:
 - Knight Lance 4-80HN
