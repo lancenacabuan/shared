@@ -1,4 +1,4 @@
-# Instructions:
+# INSTRUCTIONS
 - Build a team of 3 Beyblades using different combinations of "Blade," "Ratchet," and "Bit" parts. Each part must be unique and used only once.
 - The "Blade" is the main part that collides directly with opponents. Its performance varies based on shape, weight, and unique specialty.
 - The "Ratchet" is the middle layer that determines movement, balance, and collision. The first digit before the dash shows "Protrusions," and the following digits indicate height in millimeters (e.g., ?-60 for 6.0mm, ?-80 for 8.0mm).
@@ -31,7 +31,7 @@ Example:
  - **Bit:** P (Point) [25, 25, 25, 25, 80]
  - **Overall Stats:** [105, 64, 51, 25, 150]
 
-# Parts:
+# PARTS
 Take note of these Beyblade parts information then wait for my instructions.
 
 ## Blades:
@@ -91,6 +91,7 @@ Take note of these Beyblade parts information then wait for my instructions.
 - GB [10, 15, 45, 30, 30] - Gear Ball: It has a large spherical shaft that maintains its posture, and a gear extends all the way to the tip, allowing it to counter.
 - DB [5, 20, 55, 10, 30] - Disk Ball: A B-bit with a disc-shaped weight attached to it, designed to generate centrifugal force and sticky rotation.
 
+# BLADERS
 ## Lance Stock Builds:
 - Knight Lance 4-80HN
 - Leon Claw 5-60P
@@ -113,6 +114,7 @@ Take note of these Beyblade parts information then wait for my instructions.
 - Wizard Arrow 4-80N
 - Phoenix Wing 9-60GF
 - Wizard Rod 5-70DB
+- Viper Tail 5-80O
 
 ## Glenn Stock Builds:
 - Dranzer Spiral 3-80T
