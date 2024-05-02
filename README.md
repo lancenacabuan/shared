@@ -8,13 +8,15 @@
 
 Example:
 **Phoenix Wing 3-60P**
+ - **Blade:** Phoenix Wing
+ - **Ratchet:** 3-60
+ - **Bit:** P (Point)
  - **Playstyle:** This Beyblade leans towards an aggressive playstyle, utilizing its strong attack power and dynamic maneuverability.
  - **Win Condition:** The win condition for this build is to overwhelm opponents with relentless attacks while maintaining enough stamina to outlast them.
  - **Reasoning:** The Phoenix Wing blade provides significant attack power, allowing for powerful strikes against opponents. The 3-60 Ratchet balances stability and burst resistance, crucial for aggressive playstyles. The "P" Bit enhances movement for dynamic maneuvers and attack hits. Overall, this build combines attack prowess with strategic maneuverability and stability.
 
-# Parts:
-Take note of these Beyblade parts information then wait for my instructions.
-- Stat Parameters are [Attack, Defense, Stamina, Dash, Burst Resistance]
+# Stat Parameters:
+- Stat Parameters of each part are [Attack, Defense, Stamina, Dash, Burst Resistance]
 - Calculate Total Overall Stats by adding up parameter values accordingly from Blade, Ratchet, and Bit parts using formula below:
   - Attack = Total Attack from Blade, Ratchet, Bit
   - Defense = Total Defense from Blade, Ratchet, Bit
@@ -22,7 +24,17 @@ Take note of these Beyblade parts information then wait for my instructions.
   - Dash = Total Dash from Blade, Ratchet, Bit
   - Burst Resistance = Total Burst Resistance from Blade, Ratchet, Bit
 
-### Blades:
+Example:
+**Phoenix Wing 3-60P**
+ - **Blade:** Phoenix Wing [65, 30, 20, 0, 0]
+ - **Ratchet:** 3-60 [15, 9, 6, 0, 70]
+ - **Bit:** P (Point) [25, 25, 25, 25, 80]
+ - **Overall Stats:** [105, 64, 51, 25, 150]
+
+# Parts:
+Take note of these Beyblade parts information then wait for my instructions.
+
+## Blades:
 - Dran Sword (Weight: 34.8g) [55, 25, 20, 0, 0] - Excellent at flipping the opponent diagonally upwards with its three upper blades.
 - Hell Scythe (Weight: 32.7g) [30, 35, 35, 0, 0] - Excellent at breaking the opponent's balance with four smash blades.
 - Wizard Arrow (Weight: 32.0g) [15, 30, 55, 0, 0] - Designed with an outer center of gravity that generates strong centrifugal force with two large circular blades.
@@ -41,7 +53,7 @@ Take note of these Beyblade parts information then wait for my instructions.
 - Wizard Rod (Weight: 35.4g) [15, 25, 60, 0, 0] - With a 5-blade shape with an external center of gravity and a large diameter, it is specially designed to generate centrifugal force.
 - Dranzer Spiral (Weight: 27.8g) [35, 30, 35, 0, 0] - A design with an emphasis on balance that produces high attack power and endurance with two horizontal blades.
 
-### Ratchets:
+## Ratchets:
 - 9-60 [13, 10, 7, 0, 100]
 - 1-60 [17, 9, 4, 0, 80]
 - 3-60 [15, 9, 6, 0, 70]
@@ -53,27 +65,27 @@ Take note of these Beyblade parts information then wait for my instructions.
 - 4-80 [11, 11, 8, 0, 20]
 - 5-80 [12, 8, 10, 0, 10]
 
-### Bits:
-## Attack-Type:
+## Bits:
+### Attack-Type:
 - F [40, 15, 10, 35, 80] - Flat: The flat shaft tip runs the Bey, making it easier to execute the X-Dash.
 - LF [45, 5, 10, 40, 80] - Low Flat: Designed 1mm lower than the F bit, increasing the acceleration of the X-Dash.
 - R [40, 10, 25, 30, 80] - Rush: Designed to increase the number of dashes by suppressing the speed of the X dash with the 10-blade gear.
 - GF [50, 5, 5, 40, 80] - Gear Flat: The gear is designed to extend to the tip of the shaft, making it easier to connect to the X-line and achieving a faster X-Dash.
 - A [40, 10, 10, 40, 80] - Accel: The design combines a flat shaft tip with a large gear to enhance the performance of the X-Dash.
 
-## Balanced-Type:
+### Balanced-Type:
 - T [35, 20, 20, 25, 80] - Taper: Achieved both attack power in the early stages and stamina in the final stages with the narrowed axis.
 - P [25, 25, 25, 25, 80] - Point: With a flat shaft tip with a protrusion in the center, the movement changes from dynamic maneuver to static maneuver.
 - HT [30, 25, 20, 25, 80] - High Taper: Designed 1mm higher than the T-bit, it has both smash power and endurance.
 - GP [30, 25, 15, 30, 80] - Gear Point: The P-bit gear is designed to extend to the tip, allowing for large changes in movement.
 - H [30, 35, 20, 15, 80] - Hexa: The planar shape of the shaft tip suppresses the tilt of the bay and is designed to always maintain a stable system.
 
-## Defense-Type:
+### Defense-Type:
 - N [10, 50, 30, 10, 30] - Needle: The sharp tip of the shaft tilts the Bey, increasing counter performance.
 - HN [15, 55, 20, 10, 30] - High Needle: Designed 1mm higher than the N bit, increasing counter power due to tilt.
 - S [10, 45, 35, 10, 30] - Spike: Achieved both attack power in the early stages and stamina in the final stages with the narrowed axis.
 
-## Stamina-Type:
+### Stamina-Type:
 - B [15, 25, 50, 10, 30] - Ball: With its spherical shaft tip, it evades attacks with just the right amount of movement and achieves high stamina.
 - O [10, 10, 50, 10, 30] - Orb: The small and semicircular shaft tip reduces friction and increases endurance performance.
 - GB [10, 15, 45, 30, 30] - Gear Ball: It has a large spherical shaft that maintains its posture, and a gear extends all the way to the tip, allowing it to counter.
