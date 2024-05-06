@@ -1,10 +1,12 @@
-# INSTRUCTIONS
-- Build a team of 3 Beyblades using different combinations of "Blade," "Ratchet," and "Bit" parts. Each part must be unique and used only once.
+# INFORMATION
 - The "Blade" is the main part that collides directly with opponents. Its performance varies based on shape, weight, and unique specialty.
 - The "Ratchet" is the middle layer that determines movement, balance, and collision. The first digit before the dash shows "Protrusions," and the following digits indicate height in millimeters (e.g., ?-60 for 6.0mm, ?-80 for 8.0mm).
 - The "Bit" is the shaft tip that controls movement, dash performance, and burst resistance. Note that Beyblades can burst during battles and use the X-Dash mechanic on the stadium.
+
+# INSTRUCTIONS
+- Build a team of 3 Beyblades using different combinations of "Blade," "Ratchet," and "Bit" parts. Each part must be unique and used only once.
 - Consider each part's unique specialties, stats, and weaknesses to optimize performance complementing other parts based on desired playstyles.
-- List final build/s using the naming convention below then describe playstyle, win condition, and reasoning for each Beyblade.
+- List final build/s using the naming convention below then describe playstyle, win condition, and reasoning for each Beyblade build.
 
 Example:
 **Phoenix Wing 3-60P**
@@ -47,6 +49,7 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
 - Dran Dagger (Weight: 34.7g) [50, 25, 25, 0, 0] - Rushes at the opponent with it's 6 attack blades.
 - Hells Chain (Weight: 33.2g) [35, 40, 20, 0, 0] - An upper and lower blade allows it to handle opponents of all heights.
 - Phoenix Wing (Weight: 37.9g) [65, 30, 20, 0, 0] - Strongly repels the opponent with three heavy blades.
+- Wyvern Gale (Weight: 32.0g) [10, 40, 50, 0, 0] - The four streamlined blades reduce air resistance and are excellent at continuing to rotate.
 - Unicorn Sting (Weight: 33.2g) [35, 35, 40, 0, 0] - The left and right blades are designed with greatly different shapes, and have a structure that combines attack and defense.
 - Dran Buster (Weight: 36.6g) [70, 20, 10, 0, 0] - It has a large protruding attack blade that is specially designed to knock away the opponent with a single blow.
 - Hells Hammer (Weight: 33.2g) [50, 25, 25, 0, 0] - A thick smash blade designed specifically for slamming opponents into the stadium.
@@ -59,8 +62,10 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
 - 3-60 [15, 9, 6, 0, 70]
 - 4-60 [11, 13, 6, 0, 60]
 - 5-60 [12, 9, 9, 0, 50]
+
 - 3-70 [15, 8, 7, 0, 50]
 - 5-70 [17, 8.5, 9.5, 0, 30]
+
 - 3-80 [15, 7, 8, 0, 30]
 - 4-80 [11, 11, 8, 0, 20]
 - 5-80 [12, 8, 10, 0, 10]
@@ -102,6 +107,7 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
 - Viper Tail 5-60F
 - Phoenix Wing 9-60GF
 - Wizard Rod 5-70DB
+- Wyvern Gale 5-80GB
 
 ## Raphael Stock Builds:
 - Hells Scythe 4-60T
@@ -127,6 +133,7 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
 - Wizard Rod 5-70DB
 - Hells Hammer 3-70H
 - Hells Scythe 4-80LF
+- Knight Shield 3-80N
 
 ## Jason Stock Builds:
 - Dran Sword 3-60F
