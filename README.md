@@ -109,7 +109,7 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
 - Wizard Rod 5-70DB
 - Wyvern Gale 5-80GB
 
-- Blades:
+### Blades:
   - Knight Lance
   - Leon Claw
   - Wizard Arrow
@@ -120,7 +120,8 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
   - Phoenix Wing
   - Wizard Rod
   - Wyvern Gale
-- Ratchets:
+
+### Ratchets:
   - 4-80
   - 5-60
   - 4-80
@@ -131,7 +132,8 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
   - 9-60
   - 5-70
   - 5-80
-- Bits:
+
+### Bits:
   - HN
   - P
   - B
@@ -156,7 +158,7 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
 - Wizard Rod 5-70DB
 - Viper Tail 5-80O
 
-- Blades:
+### Blades:
   - Hells Scythe
   - Dran Sword
   - Viper Tail
@@ -167,7 +169,8 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
   - Wizard Arrow
   - Phoenix Wing
   - Wizard Rod
-- Ratchets:
+
+### Ratchets:
   - 4-60
   - 3-80
   - 4-60
@@ -178,7 +181,8 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
   - 4-80
   - 9-60
   - 5-70
-- Bits:
+
+### Bits:
   - T
   - B
   - F
@@ -204,7 +208,7 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
 - Hells Scythe 4-80LF
 - Knight Shield 3-80N
 
-- Blades:
+### Blades:
   - Dranzer Spiral
   - Dran Sword
   - Phoenix Wing
@@ -215,7 +219,8 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
   - Wizard Rod
   - Hells Hammer
   - Hells Scythe
-- Ratchets:
+
+### Ratchets:
   - 3-80
   - 3-60
   - 9-60
@@ -226,7 +231,8 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
   - 5-70
   - 3-70
   - 4-80
-- Bits:
+
+### Bits:
   - T
   - F
   - GF
@@ -245,17 +251,19 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
 - Hells Hammer 3-70H
 - Wizard Rod 5-70DB
 
-- Blades:
+### Blades:
   - Dran Sword
   - Rhino Horn
   - Hells Hammer
   - Wizard Rod
-- Ratchets:
+
+### Ratchets:
   - 3-60
   - 3-80
   - 3-70
   - 5-70
-- Bits:
+
+### Bits:
   - F
   - S
   - H
@@ -273,7 +281,7 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
 - Rhino Horn 3-80S
 - Wizard Rod 5-70DB
 
-- Blades:
+### Blades:
   - Shark Edge
   - Viper Tail
   - Phoenix Wing
@@ -284,7 +292,8 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
   - Dranzer Spiral
   - Rhino Horn
   - Wizard Rod
-- Ratchets:
+
+### Ratchets:
   - 4-80
   - 5-80
   - 9-60
@@ -295,7 +304,8 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
   - 3-80
   - 3-80
   - 5-70
-- Bits:
+
+### Bits:
   - N
   - O
   - GF
