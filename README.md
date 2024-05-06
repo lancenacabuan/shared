@@ -4,10 +4,11 @@
   - The "Bit" is the shaft tip that controls movement, dash performance, and burst resistance. Note that Beyblades can burst during battles and use the X-Dash mechanic on the stadium.
 
 # INSTRUCTIONS
-  - Build a team of 3 Beyblades using different combinations of "Blade," "Ratchet," and "Bit" parts. Each part must be unique and used only once.
+  - Build a team of 3 Beyblades using different combinations of "Blade," "Ratchet," and "Bit" parts.
+  - Each specific part must be unique and used only once.
   - Consider each part's unique specialties, stats, and weaknesses to optimize performance complementing other parts based on desired playstyles.
 
-  ## Analysis Template
+  ## Analysis Template:
     - List final build/s using the naming convention below then describe playstyle, win condition, and reasoning for each Beyblade build.
 
     Example:
@@ -318,30 +319,3 @@
     - T
     - S
     - DB
-
-# SAMPLE ANALYSIS
-  ## 1. Wizard Rod 5-60HN
-  - **Blade:** Wizard Rod [15, 25, 60, 0, 0]
-  - **Ratchet:** 5-60 [12, 9, 9, 0, 50]
-  - **Bit:** HN (High Needle) [15, 55, 20, 10, 30]
-  - **Overall Stats:** [42, 89, 89, 10, 80]
-  - **Playstyle Analysis:** This Beyblade build leans heavily towards defense and counter-attack strategies. The Wizard Rod blade provides decent attack power but excels more in defensive maneuvers due to its design. The 5-60 Ratchet offers good stability and burst resistance, crucial for defensive playstyles. The "HN" Bit enhances counter performance and burst resistance, making this Beyblade effective at enduring opponents' attacks.
-
-  ## 2. Phoenix Wing 3-60P
-  - **Blade:** Phoenix Wing [65, 30, 20, 0, 0]
-  - **Ratchet:** 3-60 [15, 9, 6, 0, 70]
-  - **Bit:** P (Point) [25, 25, 25, 25, 80]
-  - **Overall Stats:** [105, 64, 51, 25, 150]
-  - **Playstyle Analysis:** This Beyblade build focuses on aggressive play, utilizing its high attack power and maneuverability. The Phoenix Wing blade provides significant attack power, allowing for powerful strikes against opponents. The 3-60 Ratchet balances stability and burst resistance, crucial for aggressive playstyles. The "P" Bit enhances movement for dynamic maneuvers and attack hits, making this Beyblade well-suited for fast-paced battles and aggressive strategies.
-
-  ## 3. Shark Edge 9-60GP
-  - **Blade:** Shark Edge [60, 25, 25, 0, 0]
-  - **Ratchet:** 9-60 [13, 10, 7, 0, 100]
-  - **Bit:** GP (Gear Point) [30, 25, 15, 30, 80]
-  - **Overall Stats:** [103, 60, 47, 30, 180]
-  - **Playstyle Analysis:** This Beyblade build combines attack power with endurance and burst resistance. The Shark Edge blade offers a good balance of attack and defense. The 9-60 Ratchet provides stability and burst resistance, crucial for longer battles. The "GP" Bit enhances movement and adds burst resistance, making this Beyblade effective at both aggressive attacks and enduring opponents' assaults.
-
-  Overall, each Beyblade build is optimized for a specific playstyle:
-  - Wizard Rod 5-60HN: Defensive and counter-attack strategies.
-  - Phoenix Wing 3-60P: Aggressive play with high attack power and maneuverability.
-  - Shark Edge 9-60GP: Balanced play combining attack, endurance, and burst resistance.
