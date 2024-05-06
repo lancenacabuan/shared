@@ -6,16 +6,18 @@
 # INSTRUCTIONS
   - Build a team of 3 Beyblades using different combinations of "Blade," "Ratchet," and "Bit" parts. Each part must be unique and used only once.
   - Consider each part's unique specialties, stats, and weaknesses to optimize performance complementing other parts based on desired playstyles.
-  - List final build/s using the naming convention below then describe playstyle, win condition, and reasoning for each Beyblade build.
 
-  Example:
-    **Phoenix Wing 3-60P**
-      - **Blade:** Phoenix Wing
-      - **Ratchet:** 3-60
-      - **Bit:** P (Point)
-      - **Playstyle:** This Beyblade leans towards an aggressive playstyle, utilizing its strong attack power and dynamic maneuverability.
-      - **Win Condition:** The win condition for this build is to overwhelm opponents with relentless attacks while maintaining enough stamina to outlast them.
-      - **Reasoning:** The Phoenix Wing blade provides significant attack power, allowing for powerful strikes against opponents. The 3-60 Ratchet balances stability and burst resistance, crucial for aggressive playstyles. The "P" Bit enhances movement for dynamic maneuvers and attack hits. Overall, this build combines attack prowess with strategic maneuverability and stability.
+  ## Analysis Template
+    - List final build/s using the naming convention below then describe playstyle, win condition, and reasoning for each Beyblade build.
+
+    Example:
+      **Phoenix Wing 3-60P**
+        - **Blade:** Phoenix Wing
+        - **Ratchet:** 3-60
+        - **Bit:** P (Point)
+        - **Playstyle:** This Beyblade leans towards an aggressive playstyle, utilizing its strong attack power and dynamic maneuverability.
+        - **Win Condition:** The win condition for this build is to overwhelm opponents with relentless attacks while maintaining enough stamina to outlast them.
+        - **Reasoning:** The Phoenix Wing blade provides significant attack power, allowing for powerful strikes against opponents. The 3-60 Ratchet balances stability and burst resistance, crucial for aggressive playstyles. The "P" Bit enhances movement for dynamic maneuvers and attack hits. Overall, this build combines attack prowess with strategic maneuverability and stability.
 
   ## Stat Parameters:
     - Stat Parameters of each part are [Attack, Defense, Stamina, Dash, Burst Resistance]
