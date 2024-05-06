@@ -109,6 +109,40 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
 - Wizard Rod 5-70DB
 - Wyvern Gale 5-80GB
 
+- Blades:
+  - Knight Lance
+  - Leon Claw
+  - Wizard Arrow
+  - Shark Edge
+  - Knight Shield
+  - Unicorn Sting
+  - Viper Tail
+  - Phoenix Wing
+  - Wizard Rod
+  - Wyvern Gale
+- Ratchets:
+  - 4-80
+  - 5-60
+  - 4-80
+  - 3-60
+  - 3-80
+  - 5-60
+  - 5-60
+  - 9-60
+  - 5-70
+  - 5-80
+- Bits:
+  - HN
+  - P
+  - B
+  - LF
+  - N
+  - GP
+  - F
+  - GF
+  - DB
+  - GB
+
 ## Raphael Stock Builds:
 - Hells Scythe 4-60T
 - Dran Sword 3-80B
@@ -121,6 +155,41 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
 - Phoenix Wing 9-60GF
 - Wizard Rod 5-70DB
 - Viper Tail 5-80O
+
+- Blades:
+  - Hells Scythe
+  - Dran Sword
+  - Viper Tail
+  - Viper Tail
+  - Hells Hammer
+  - Hells Chain
+  - Knight Lance
+  - Wizard Arrow
+  - Phoenix Wing
+  - Wizard Rod
+- Ratchets:
+  - 4-60
+  - 3-80
+  - 4-60
+  - 3-80
+  - 3-70
+  - 5-60
+  - 3-60
+  - 4-80
+  - 9-60
+  - 5-70
+- Bits:
+  - T
+  - B
+  - F
+  - HN
+  - H
+  - HT
+  - LF
+  - N
+  - GF
+  - DB
+  - O
 
 ## Glenn Stock Builds:
 - Dranzer Spiral 3-80T
@@ -135,11 +204,62 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
 - Hells Scythe 4-80LF
 - Knight Shield 3-80N
 
+- Blades:
+  - Dranzer Spiral
+  - Dran Sword
+  - Phoenix Wing
+  - Dran Buster
+  - Dran Dagger
+  - Knight Shield
+  - Shark Edge
+  - Wizard Rod
+  - Hells Hammer
+  - Hells Scythe
+- Ratchets:
+  - 3-80
+  - 3-60
+  - 9-60
+  - 1-60
+  - 4-60
+  - 5-80
+  - 3-80
+  - 5-70
+  - 3-70
+  - 4-80
+- Bits:
+  - T
+  - F
+  - GF
+  - A
+  - R
+  - T
+  - F
+  - DB
+  - H
+  - LF
+  - N
+
 ## Jason Stock Builds:
 - Dran Sword 3-60F
 - Rhino Horn 3-80S
 - Hells Hammer 3-70H
 - Wizard Rod 5-70DB
+
+- Blades:
+  - Dran Sword
+  - Rhino Horn
+  - Hells Hammer
+  - Wizard Rod
+- Ratchets:
+  - 3-60
+  - 3-80
+  - 3-70
+  - 5-70
+- Bits:
+  - F
+  - S
+  - H
+  - DB
 
 ## Jossell Stock Builds:
 - Shark Edge 4-80N
@@ -152,6 +272,40 @@ Just take note of these Beyblade ("Blade," "Ratchet," and "Bit") parts informati
 - Dranzer Spiral 3-80T
 - Rhino Horn 3-80S
 - Wizard Rod 5-70DB
+
+- Blades:
+  - Shark Edge
+  - Viper Tail
+  - Phoenix Wing
+  - Wizard Arrow
+  - Unicorn Sting
+  - Dran Sword
+  - Wizard Arrow
+  - Dranzer Spiral
+  - Rhino Horn
+  - Wizard Rod
+- Ratchets:
+  - 4-80
+  - 5-80
+  - 9-60
+  - 3-60
+  - 5-60
+  - 3-60
+  - 4-80
+  - 3-80
+  - 3-80
+  - 5-70
+- Bits:
+  - N
+  - O
+  - GF
+  - T
+  - GP
+  - F
+  - B
+  - T
+  - S
+  - DB
 
 # SAMPLE ANALYSIS
 ### 1. Wizard Rod 5-60HN
