@@ -111,6 +111,7 @@
   - Phoenix Wing 9-60GF
   - Wizard Rod 5-70DB
   - Wyvern Gale 5-80GB
+  - Hells Hammer 3-70H
 
   ### Blades:
     - Knight Lance
@@ -123,6 +124,7 @@
     - Phoenix Wing
     - Wizard Rod
     - Wyvern Gale
+    - Hells Hammer
 
   ### Ratchets:
     - 4-80
@@ -135,6 +137,7 @@
     - 9-60
     - 5-70
     - 5-80
+    - 3-70
 
   ### Bits:
     - HN
@@ -147,6 +150,7 @@
     - GF
     - DB
     - GB
+    - H
 
   ## Raphael Stock Builds:
   - Hells Scythe 4-60T
