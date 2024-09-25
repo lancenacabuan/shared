@@ -103,3 +103,49 @@ This final part encourages believers to live in such a way that they reflect God
 ---
 
 This suggested study progressively guides readers through the concept of glorifying God—from understanding His glory, how Jesus glorified God, to how we can reflect His glory in our own lives.
+
+
+### OCTOBER 2024
+#  Glorify God
+
+#GlorifyGod is the ultimate theme that drives our lives as believers—recognizing and reflecting the greatness, majesty, and goodness of God in everything we do. Throughout October 2024, we will journey through key scriptures that emphasize our primary purpose: to glorify God.
+
+This series is divided into three key parts, beginning with understanding God’s glory and our role in revealing it, moving to how Christ perfectly glorified the Father, and concluding with how we are called to reflect His glory in our daily lives. Each verse highlights a different aspect of living to the glory of God, encouraging us to pursue a life that exalts His name.
+
+Together, we will discover how glorifying God is not just a command, but the heart of our existence, and how we can live out this purpose in every area of life.
+
+---
+
+**[PART 1] Understanding God's Glory and Our Purpose**  
+- **D-01 10-01 (Tue): Isaiah 43:7**  
+- **D-02 10-02 (Wed): 1 Corinthians 10:31**  
+- **D-03 10-03 (Thu): Psalm 19:1**  
+- **D-04 10-04 (Fri): Romans 11:36**  
+- **D-05 10-05 (Sat): Ephesians 1:11-12**  
+- **D-06 10-06 (Sun): Revelation 4:11**  
+- **D-07 10-07 (Mon): Matthew 5:16**  
+
+---
+
+**[PART 2] Living for God's Glory through Christ**  
+- **D-08 10-08 (Tue): John 17:4-5**  
+- **D-09 10-09 (Wed): Hebrews 1:3**  
+- **D-10 10-10 (Thu): Colossians 1:15-16**  
+- **D-11 10-11 (Fri): John 12:28**  
+- **D-12 10-12 (Sat): Philippians 2:9-11**  
+- **D-13 10-13 (Sun): 2 Corinthians 4:6**  
+
+---
+
+**[PART 3] Reflecting God's Glory in Our Lives**  
+- **D-14 10-14 (Mon): 1 Peter 4:11**  
+- **D-15 10-15 (Tue): 2 Thessalonians 1:11-12**  
+- **D-16 10-16 (Wed): Romans 15:5-6**  
+- **D-17 10-17 (Thu): 1 Corinthians 6:19-20**  
+- **D-18 10-18 (Fri): Ephesians 3:20-21**  
+- **D-19 10-19 (Sat): Galatians 1:24**  
+- **D-20 10-20 (Sun): John 15:8**  
+
+---
+
+As we delve into these scriptures, we will learn how every aspect of life, whether through our actions, relationships, or even our trials, can bring glory to God. This study is designed to guide us into a deeper understanding of our ultimate purpose and inspire us to live a life that constantly seeks to exalt and reflect His glory.
