@@ -22,7 +22,7 @@ This section explores the nature of God's glory and introduces the foundational 
 
 - **D-04 10-04 (Fri): Romans 11:36**  
   *“For of Him and through Him and to Him are all things, to whom be glory forever. Amen.”*  
-  — Everything originates from God and is for His glory.
+  — Everything originates from God, is sustained by Him, and ultimately exists for His glory.
 
 - **D-05 10-05 (Sat): Ephesians 1:11-12**  
   *“In Him also we have obtained an inheritance, being predestined according to the purpose of Him who works all things according to the counsel of His will, that we who first trusted in Christ should be to the praise of His glory.”*  
