@@ -26,7 +26,7 @@ This section explores the nature of God's glory and introduces the foundational 
 
 - **D-05 10-05 (Sat): Ephesians 1:11-12**  
   *“In Him also we have obtained an inheritance, being predestined according to the purpose of Him who works all things according to the counsel of His will, that we who first trusted in Christ should be to the praise of His glory.”*  
-  — We are chosen to live to the praise of His glory.
+  — Our inheritance in Christ is rooted in God's eternal plan, fulfilling His purpose and bringing Him glory.
 
 - **D-06 10-06 (Sun): Revelation 4:11**  
   *“You are worthy, O Lord, to receive glory and honor and power; For You created all things, And by Your will they exist and were created.”*  
