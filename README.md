@@ -1,80 +1,63 @@
-# Brugada Type 1: Best Diet and Safe Physical Activity Guide
+# Brugada Type 1: Diet and Safe Activity Guide
 
-Living with **Brugada Type 1** means making careful lifestyle choices to support heart health. While medical treatment is essential, both a healthy diet and safe physical activity play vital roles in managing your condition.
+Living with **Brugada Type 1** requires mindful lifestyle choices to support heart health. While medical treatment is essential, a heart-healthy diet and safe physical activity play a key role in managing the condition.
 
-This guide covers a **heart-friendly diet** and offers **dos and don’ts for physical activity** to help you stay active while minimizing risks.
+This guide outlines a **heart-friendly diet** and provides **safe activity tips** to help you stay active while reducing risk.
 
-## **Understanding Brugada Type 1**
+## **What is Brugada Type 1?**
 
-**Brugada Type 1** is a heart condition that disrupts the electrical signals in your heart, increasing the risk of irregular heartbeats (arrhythmias). With proper management—through medication, diet, and exercise—you can live a full life while reducing the risk of complications.
+**Brugada Type 1** is a heart condition that affects the electrical signals in the heart, increasing the risk of irregular heartbeats (arrhythmias). With proper management, including medication, diet, and exercise, you can reduce complications and live a full life.
 
-## **Key Focus Areas for a Heart-Healthy Diet and Safe Physical Activities**
+## **Focus Areas for a Heart-Healthy Diet and Safe Activities**
 
-**Electrolyte Balance**<br>
+### **Maintain Electrolyte Balance**  
+Proper electrolyte balance is vital for heart health. Include magnesium-rich foods like leafy greens, nuts, and seeds, and potassium-rich options like bananas, avocados, and sweet potatoes. Dairy, tofu, and leafy greens are great sources of calcium. Staying hydrated also helps keep electrolytes balanced for better heart function.
 
-Maintaining proper electrolyte balance is crucial for heart health. Include magnesium-rich foods like leafy greens, nuts, and seeds, along with potassium-rich options such as bananas, avocados, and sweet potatoes. Calcium can be sourced from dairy, tofu, and leafy greens. Staying hydrated is essential to keeping electrolytes balanced, which helps regulate heart function.
+### **Omega-3s for Heart Health**  
+Omega-3 fatty acids reduce inflammation and support heart health. Fatty fish like salmon, mackerel, and sardines are great sources. Plant-based options include flaxseeds, chia seeds, and walnuts.
 
-**Omega-3s for Heart Health**<br>
+### **Anti-Inflammatory Foods**  
+A diet rich in colorful fruits and vegetables, like berries, leafy greens, and bell peppers, helps reduce inflammation. Whole grains such as brown rice, quinoa, and oats provide fiber and additional anti-inflammatory benefits for heart health.
 
-Omega-3 fatty acids reduce inflammation and support cardiovascular health. Fatty fish such as salmon, mackerel, and sardines are excellent sources. For plant-based alternatives, include flaxseeds, chia seeds, and walnuts in your diet.
+### **Limit Sodium**  
+High sodium intake can lead to high blood pressure and increase heart risks. Avoid processed foods and opt for herbs and spices to flavor your meals.
 
-**Anti-Inflammatory Foods**<br>
+### **Choose Healthy Fats**  
+Incorporate healthy fats like olive oil, avocados, and nuts into your diet, while avoiding unhealthy trans fats found in fried and processed foods. Limit red meat, which is high in saturated fats.
 
-Reducing inflammation is key for heart health. Opt for a diet rich in colorful fruits and vegetables, such as berries, leafy greens, and bell peppers. Whole grains like brown rice, quinoa, and oats offer additional anti-inflammatory benefits and fiber for a healthier heart.
-
-**Low Sodium**<br>
-
-To avoid high blood pressure and other heart risks, limit your sodium intake. Avoid processed foods, and instead, use herbs and spices to flavor your meals.
-
-**Healthy Fats**<br>
-
-Focus on consuming healthy fats by incorporating olive oil, avocados, and nuts into your diet. These should replace unhealthy trans fats commonly found in fried and processed foods. Also, limit red meat intake, which is high in saturated fats.
-
-**Avoid Stimulants**<br>
-
-Minimize your consumption of caffeine and alcohol, as these can trigger arrhythmias and negatively affect your heart. Moderation or complete avoidance is recommended for heart safety.
+### **Avoid Stimulants**  
+Caffeine and alcohol can trigger arrhythmias, so it's best to minimize or avoid these to protect your heart.
 
 ## **Safe Physical Activities**
 
-**Low-Intensity, Steady-State Exercises**<br>
+### **Low-Intensity, Steady-State Exercises**  
+Activities like walking, swimming, light cycling, or yoga help maintain a steady heart rate and support cardiovascular health. These exercises are gentle but effective for heart function.
 
-Engaging in low-intensity, steady-state exercises such as walking, swimming, light cycling, or yoga helps maintain a stable heart rate and improves overall cardiovascular health. These activities are gentle but effective in supporting heart function.
+### **Light Resistance Training**  
+Use light weights or bodyweight exercises (e.g., squats, push-ups) to build strength without increasing your heart rate too much, making it safer for Brugada Type 1.
 
-**Light Resistance Training**<br>
+### **Stretching and Flexibility**  
+Practices like gentle stretching, Pilates, or tai chi improve flexibility, reduce tension, and promote relaxation, easing the strain on your heart.
 
-Incorporate light resistance exercises like using light weights or bodyweight exercises (squats, push-ups). These help build strength without spiking your heart rate, making them safe for heart conditions like Brugada Type 1.
+### **Short, Moderate-Intensity Workouts**  
+Engage in moderate-intensity exercises like brisk walking or light jogging for 20-30 minutes. This supports cardiovascular health without overexerting your heart. Be sure to monitor your heart rate.
 
-**Stretching and Flexibility**<br>
-
-Gentle stretching, Pilates, or tai chi are excellent for improving flexibility and promoting relaxation, reducing tension and stress on your heart.
-
-**Short, Moderate-Intensity Workouts**<br>
-
-Short bursts of moderate-intensity exercise, such as brisk walking or light jogging for 20-30 minutes, are beneficial for cardiovascular health without overexerting the heart. Always ensure to monitor your heart rate.
-
-**Cool Down After Exercise**<br>
-
-After exercising, it’s crucial to cool down properly. Gradually lowering your heart rate after physical activity helps reduce the risk of arrhythmias.
+### **Cool Down After Exercise**  
+Cooling down after exercise is essential to gradually lower your heart rate, helping to prevent arrhythmias.
 
 ## **Activities to Avoid**
 
-**High-Intensity Interval Training (HIIT)**<br>
+### **High-Intensity Interval Training (HIIT)**  
+HIIT causes rapid spikes in heart rate, which can trigger dangerous arrhythmias. Avoid workouts with intense, quick bursts of activity.
 
-HIIT exercises cause rapid heart rate spikes, which can trigger dangerous arrhythmias. It's best to avoid workouts with intense, quick bursts of activity.
+### **Endurance Sports**  
+Prolonged physical exertion, like marathon running or triathlons, can strain the heart and increase the risk of arrhythmias.
 
-**Endurance Sports**<br>
+### **High-Intensity Team Sports**  
+Sports like soccer or basketball require sudden, intense bursts of movement, which can quickly elevate your heart rate and pose risks.
 
-Prolonged physical exertion, such as marathon running or triathlons, puts too much strain on the heart, increasing the risk of arrhythmias.
+### **Heavy Weightlifting**  
+Lifting very heavy weights spikes blood pressure and heart rate, increasing the chance of arrhythmias. Stick to lighter weights for safety.
 
-**High-Intensity Team Sports**<br>
-
-Sports like soccer or basketball require sudden, intense bursts of movement, which can elevate your heart rate too quickly. This may pose a risk for those with Brugada Type 1.
-
-**Heavy Weightlifting**<br>
-
-Lifting very heavy weights can spike your blood pressure and heart rate, increasing the chance of arrhythmias. Stick to lighter weights to maintain safety.
-
-**Exercising in Excessive Heat**<br>
-
-Heat and dehydration can affect your body’s electrolyte balance, raising the risk of arrhythmias. Be cautious when exercising outdoors, especially in hot weather, and stay hydrated.
-
+### **Exercising in Excessive Heat**  
+Heat and dehydration disrupt electrolyte balance, increasing the risk of arrhythmias. Avoid exercising in hot weather, and always stay hydrated.
