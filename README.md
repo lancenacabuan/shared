@@ -28,6 +28,10 @@ This section explores the nature of God's glory and introduces the foundational 
   *“In Him also we have obtained an inheritance, being predestined according to the purpose of Him who works all things according to the counsel of His will, that we who first trusted in Christ should be to the praise of His glory.”*  
   — Our inheritance in Christ is rooted in God's eternal plan, fulfilling His purpose and bringing Him glory.
 
+- **D-06 10-06 (Sun): 1 Chronicles 29:11**  
+  *“Yours, O Lord, is the greatness, The power and the glory, The victory and the majesty; For all that is in heaven and in earth is Yours; Yours is the kingdom, O Lord, And You are exalted as head over all.”*  
+  — God is the sovereign ruler over all creation, and everything belongs to Him.
+
 - **D-06 10-06 (Sun): Revelation 4:11**  
   *“You are worthy, O Lord, to receive glory and honor and power; For You created all things, And by Your will they exist and were created.”*  
   — Worship in heaven centers around the glory of God as Creator.
