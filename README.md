@@ -98,6 +98,8 @@ The *Glorify God* themed study centers on our ultimate purpose as believers: to 
 **Matthew 5:16**  
 “Let your light shine before men in such a way that they may see your good works, and glorify your Father who is in heaven.”
 
+---
+
 ## **Emulate Christ**  
 The *Emulate Christ* themed study challenges believers to mirror the life and teachings of Jesus, deepening our understanding of what it means to live out the Gospel. Beginning with the truth of our transformation into Christ’s image, it moves into practical steps for adopting His virtues such as humility, love, and servanthood. It concludes with the impact of living as Christ’s representatives, demonstrating His love and sharing the message of salvation. This study calls us to a life of discipleship, empowered by the Holy Spirit, as we pursue Christlikeness and embrace the privilege of showing His character to the world.
 
@@ -146,6 +148,8 @@ The *Emulate Christ* themed study challenges believers to mirror the life and te
 **1 Peter 2:21**  
 “For you have been called for this purpose, since Christ also suffered for you, leaving you an example for you to follow in His steps.”  
 
+---
+
 ## **Set Apart**  
 The *Set Apart* themed study guides believers in understanding the biblical call to holiness, as exemplified in 1 Peter. It unpacks holiness as not merely external behavior but an inner transformation that sets us apart for God’s purposes. Through themes such as the conduct, challenge, and commitment of holiness, it explores how we can honor God in our actions, resist worldly temptations, and endure trials with faith. Empowered by grace and modeled after Christ’s own holiness, this study encourages us to live as witnesses to God’s character, reflecting His light in a dark world, and glorifying Him in all we do.
 
@@ -169,6 +173,8 @@ The *Set Apart* themed study guides believers in understanding the biblical call
 
 **1 Peter 4:12-13**  
 “Beloved, do not be surprised at the fiery ordeal among you, which comes upon you for your testing, as though some strange thing were happening to you; but to the degree that you share the sufferings of Christ, keep on rejoicing, so that also at the revelation of His glory you may rejoice with exultation.”
+
+---
 
 ## **In Christ**  
 The *In Christ* themed study delves into the profound biblical truth of union with Christ, which forms the foundation of the believer’s identity and spiritual life. By participating in Christ’s life, death, and resurrection, we are given new life, access to God’s grace, and the hope of eternal communion with Him. The study explores how this connection redefines our purpose, integrates us into His body, and calls us to live Spirit-led lives that reflect His love and fulfill His mission. Anchoring believers in the transformative power of life through Christ, it inspires confidence in God’s promises and a deeper commitment to living for His glory.
@@ -232,6 +238,26 @@ The *In Christ* themed study delves into the profound biblical truth of union wi
 
 **John 15:5**  
 “I am the vine, you are the branches; he who abides in Me, and I in him, he bears much fruit; for apart from Me you can do nothing.”
+
+---
+
+## **Our Holy Calling: Glorifying God by Emulating Christ and Living Set Apart in Him**
+
+At the heart of the Christian life is the reality that **our identity in Christ** forms the foundation for everything we are and do. As new creations, we are not defined by our past or our own efforts, but by the grace of God through the redemptive work of Christ. This transformation is a gift, and through it, we are called to live distinct, holy lives—set apart for God’s purposes.
+
+Our **union with Christ** is the power that enables this transformation. It is through our union with Him—by the work of the Holy Spirit—that we are empowered to reflect His character. We are not merely mimicking Christ’s actions but are being shaped into His likeness. The life of Christ becomes the pattern and the source of our lives, enabling us to live in His love, humility, compassion, and obedience.
+
+**Being set apart** for God’s purposes is not a burden, but a privilege and a joy. Holiness, the fruit of our union with Christ, flows naturally from our relationship with Him. Just as Christ was perfectly consecrated to the Father, we are called to live lives wholly dedicated to His will. This distinctiveness is not for separation’s sake but for the fulfillment of God’s mission in the world.
+
+To **emulate Christ** means more than copying His actions; it is to allow His virtues—love, humility, compassion, and obedience—to live through us. The Holy Spirit works within us to transform our hearts and minds, so that His character is reflected in our lives. This empowers us to be His hands and feet in a world that desperately needs His touch, revealing His love and grace to those around us.
+
+Our **ultimate purpose** is to **glorify God**. This is the reason we exist, and it begins with understanding and embracing our identity in Christ. Through His work on the cross, we are equipped to live lives that reflect His greatness. Christ’s life was the perfect example of how to glorify the Father, and we are called to follow His lead in all things, with every word, action, and relationship. As we do this, we participate in God's redemptive work and point others toward His glory.
+
+In this process, our lives become a **transformative witness**. As we live set-apart lives, dedicated to God’s glory, we become living testimonies of His grace. Our lives reflect His character, fulfilling the purpose for which we were created: to make His glory known and to delight in Him forever. In doing so, we actively participate in the mission of God, shining His light to the world and inviting others to experience His love and grace.
+
+This interconnected journey—rooted in **our identity in Christ**, empowered by **union with Him**, marked by **holiness and consecration**, and aimed at **glorifying God**—is the essence of what it means to live as Christ’s disciples. Through His transformative work in us, we not only emulate His character but also fulfill our ultimate purpose: to reflect His glory and bring His kingdom to earth.
+
+---
 
 ## **Theosis: Our Holy Calling to Reflect God’s Glory in Christ**
 
