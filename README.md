@@ -243,72 +243,75 @@ The *In Christ* themed study delves into the profound biblical truth of union wi
 
 ## **Theosis: Our Holy Calling to Reflect God’s Glory in Christ**  
 
-The Christian life is not merely about outward obedience but about being transformed into the likeness of Christ. This divine transformation, often referred to by the Greek term *Theosis*, speaks of God’s work to conform believers to His image. It is a journey that encompasses justification, sanctification, and glorification, enabling us to reflect the glory of God in Christ through the power of the Holy Spirit.  
+The Christian life is not merely about outward obedience but about being transformed into the likeness of Christ. This divine transformation, often referred to by the Greek term *Theosis*, speaks of God’s work to conform believers to His image. It is a journey that encompasses justification, sanctification, and glorification, enabling us to reflect the glory of God in Christ through the power of the Holy Spirit.
 
-In this reflection, we will explore the biblical foundation of *Theosis*, focusing on its key elements: exalting God, emulating Christ, exemplifying holiness, and embodying union with Him. This biblical framework reminds us of our ultimate purpose: to live as image-bearers of God, revealing His glory to the world.  
+In this reflection, we will explore the biblical foundation of *Theosis*, focusing on its key elements: exalting God, emulating Christ, exemplifying holiness, and embodying union with Him. This biblical framework reminds us of our ultimate purpose: to live as image-bearers of God, revealing His glory to the world.
 
----
+## Exalt: Created to Glorify God
 
-### **1. Exalt: Created to Glorify God**  
+At the core of *Theosis* is the understanding that humanity was created to glorify God. The Lord declares in **Isaiah 43:7**, “Everyone who is called by My name, and whom I have created for My glory, whom I have formed, even whom I have made.” We were made to reflect God’s greatness, and through Christ, we are empowered to fulfill this purpose.
 
-At the core of *Theosis* is the understanding that humanity was created to glorify God. The Lord declares in **Isaiah 43:7**, “Everyone who is called by My name, and whom I have created for My glory, whom I have formed, even whom I have made.” We were made to reflect God’s greatness, and through Christ, we are empowered to fulfill this purpose.  
+Jesus exemplified this purpose perfectly during His earthly ministry. In **John 17:4**, He prayed, “I glorified You on the earth, having accomplished the work which You have given Me to do.” His obedience to the Father brought glory to God, and as His followers, we are called to live in the same way. Paul reminds us in **1 Corinthians 10:31**, “Whether, then, you eat or drink or whatever you do, do all to the glory of God.”
 
-Jesus exemplified this purpose perfectly during His earthly ministry. In **John 17:4**, He prayed, “I glorified You on the earth, having accomplished the work which You have given Me to do.” His obedience to the Father brought glory to God, and as His followers, we are called to live in the same way. Paul reminds us in **1 Corinthians 10:31**, “Whether, then, you eat or drink or whatever you do, do all to the glory of God.”  
+**Practical Reflection:**
 
-#### **Practical Reflection:**  
-- Begin each day with a prayer, asking God to use your life for His glory.  
-- Consider how your actions—both large and small—can reflect God’s goodness.  
-- Cultivate gratitude for God’s provision and His presence in your life.  
+- Begin each day with a prayer, asking God to use your life for His glory.
+- Consider how your actions—both large and small—can reflect God’s goodness.
+- Cultivate gratitude for God’s provision and His presence in your life.
 
----
+<!-- -->
 
-### **2. Emulate: Conformed to Christlikeness**  
+## Emulate: Conformed to Christlikeness
 
-Our transformation into Christ’s image is at the heart of *Theosis*. God’s plan is for His children to reflect the character of His Son. **Romans 8:29** says, “For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that He would be the firstborn among many brethren.”  
+Our transformation into Christ’s image is at the heart of *Theosis*. God’s plan is for His children to reflect the character of His Son. **Romans 8:29** says, “For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that He would be the firstborn among many brethren.”
 
-This transformation is an ongoing work of the Holy Spirit, described in **2 Corinthians 3:18**: “But we all, with unveiled face, beholding as in a mirror the glory of the Lord, are being transformed into the same image from glory to glory, just as from the Lord, the Spirit.” As we behold God’s glory in Christ through Scripture, prayer, and worship, the Spirit conforms us to His likeness.  
+This transformation is an ongoing work of the Holy Spirit, described in **2 Corinthians 3:18**: “But we all, with unveiled face, beholding as in a mirror the glory of the Lord, are being transformed into the same image from glory to glory, just as from the Lord, the Spirit.” As we behold God’s glory in Christ through Scripture, prayer, and worship, the Spirit conforms us to His likeness.
 
-#### **Practical Reflection:**  
-- Meditate on the life and character of Christ, seeking to imitate His humility, love, and obedience.  
-- Spend time in the Word, allowing the Holy Spirit to renew your mind and transform your heart.  
-- Pursue godly relationships that encourage you to grow in Christlikeness.  
+**Practical Reflection:**
 
----
+- Meditate on the life and character of Christ, seeking to imitate His humility, love, and obedience.
+- Spend time in the Word, allowing the Holy Spirit to renew your mind and transform your heart.
+- Pursue godly relationships that encourage you to grow in Christlikeness.
 
-### **3. Exemplify: Called to Holy Living**  
+<!-- -->
 
-God calls His people to live holy lives that reflect His character. In **1 Peter 1:15-16**, we are commanded, “But like the Holy One who called you, be holy yourselves also in all your behavior; because it is written, ‘You shall be holy, for I am holy.’” Holiness involves being set apart for God, rejecting sin, and walking in obedience to His Word.  
+## Exemplify: Called to Holy Living
 
-Paul elaborates on this transformation in **Romans 12:1-2**: “Therefore I urge you, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, which is your spiritual service of worship. And do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect.”  
+God calls His people to live holy lives that reflect His character. In **1 Peter 1:15-16**, we are commanded, “But like the Holy One who called you, be holy yourselves also in all your behavior; because it is written, ‘You shall be holy, for I am holy.’” Holiness involves being set apart for God, rejecting sin, and walking in obedience to His Word.
 
-This call to holiness is not about perfection in action but about our hearts being set apart for God. As we grow in holiness, we bear witness to the world of God’s transformative power.  
+Paul elaborates on this transformation in **Romans 12:1-2**: “Therefore I urge you, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, which is your spiritual service of worship. And do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect.”
 
-#### **Practical Reflection:**  
-- Identify areas of your life that need to be surrendered to God and seek His help in overcoming sin.  
-- Commit to spiritual disciplines, such as prayer and Bible study, to deepen your walk with the Lord.  
-- Trust in God’s grace to sustain you in your pursuit of holiness.  
+This call to holiness is not about perfection in action but about our hearts being set apart for God. As we grow in holiness, we bear witness to the world of God’s transformative power.
 
----
+**Practical Reflection:**
 
-### **4. Embody: Connected to Christ**  
+- Identify areas of your life that need to be surrendered to God and seek His help in overcoming sin.
+- Commit to spiritual disciplines, such as prayer and Bible study, to deepen your walk with the Lord.
+- Trust in God’s grace to sustain you in your pursuit of holiness.
 
-The power for *Theosis* comes from our union with Christ. We do not achieve transformation through our own strength but by abiding in Him. Jesus says in **John 15:5**, “I am the vine, you are the branches; he who abides in Me and I in him, he bears much fruit; for apart from Me you can do nothing.”  
+<!-- -->
 
-This union means that our lives are no longer our own. As Paul testifies in **Galatians 2:20**, “I have been crucified with Christ; and it is no longer I who live, but Christ lives in me; and the life which I now live in the flesh I live by faith in the Son of God, who loved me and gave Himself up for me.”  
+## Embody: Connected to Christ
 
-This abiding relationship not only empowers us to live for God’s glory but assures us of the hope of future glory. In **Romans 6:5**, Paul writes, “For if we have become united with Him in the likeness of His death, certainly we shall also be in the likeness of His resurrection.”  
+The power for *Theosis* comes from our union with Christ. We do not achieve transformation through our own strength but by abiding in Him. Jesus says in **John 15:5**, “I am the vine, you are the branches; he who abides in Me and I in him, he bears much fruit; for apart from Me you can do nothing.”
 
-#### **Practical Reflection:**  
-- Remain in constant fellowship with Christ through prayer and dependence on His Word.  
-- Recognize that your strength comes from the Holy Spirit, not your own efforts.  
-- Rest in the assurance that God is faithful to complete the good work He began in you.  
+This union means that our lives are no longer our own. As Paul testifies in **Galatians 2:20**, “I have been crucified with Christ; and it is no longer I who live, but Christ lives in me; and the life which I now live in the flesh I live by faith in the Son of God, who loved me and gave Himself up for me.”
 
----
+This abiding relationship not only empowers us to live for God’s glory but assures us of the hope of future glory. In **Romans 6:5**, Paul writes, “For if we have become united with Him in the likeness of His death, certainly we shall also be in the likeness of His resurrection.”
 
-### **Conclusion**  
+**Practical Reflection:**
 
-*Theosis* is the glorious process of being transformed into the likeness of Christ, empowered by the Holy Spirit and grounded in our union with Him. It is a journey of exalting God, emulating Christ’s character, exemplifying holiness, and embodying our connection with Christ.  
+- Remain in constant fellowship with Christ through prayer and dependence on His Word.
+- Recognize that your strength comes from the Holy Spirit, not your own efforts.
+- Rest in the assurance that God is faithful to complete the good work He began in you.
 
-This calling is both a present reality and a future hope. As Paul reminds us in **Philippians 1:6**, “For I am confident of this very thing, that He who began a good work in you will perfect it until the day of Christ Jesus.” Through God’s grace, we are being conformed to the image of His Son, reflecting His glory to the world and fulfilling the purpose for which we were created.  
+<!-- -->
 
-May we respond to this calling with joy, faith, and unwavering trust in God’s transformative power. Let us live lives that glorify Him, embracing our holy calling to reflect His glory in Christ.  
+**Conclusion**
+
+*Theosis* is the glorious process of being transformed into the likeness of Christ, empowered by the Holy Spirit and grounded in our union with Him. It is a journey of exalting God, emulating Christ’s character, exemplifying holiness, and embodying our connection with Christ.
+
+This calling is both a present reality and a future hope. As Paul reminds us in **Philippians 1:6**, “For I am confident of this very thing, that He who began a good work in you will perfect it until the day of Christ Jesus.” Through God’s grace, we are being conformed to the image of His Son, reflecting His glory to the world and fulfilling the purpose for which we were created.
+
+May we respond to this calling with joy, faith, and unwavering trust in God’s transformative power. Let us live lives that glorify Him, embracing our holy calling to reflect His glory in Christ.
+
