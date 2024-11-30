@@ -1,5 +1,5 @@
 ## **Glorify God**  
-The *Glorify God* devotional for October 2024 centers on our ultimate purpose as believers: to magnify the greatness and majesty of God in every aspect of life. It begins by exploring the meaning of God’s glory and how His creation, character, and works reveal His infinite worth. Moving through the life of Christ, it highlights how Jesus perfectly glorified the Father through His obedience, sacrifice, and exaltation. Finally, it emphasizes how we are called to reflect God’s glory daily through our worship, conduct, and testimony. This study reminds us that glorifying God is not only a command but the essence of our existence, shaping our identity and purpose as His people.
+The *Glorify God* themed study centers on our ultimate purpose as believers: to magnify the greatness and majesty of God in every aspect of life. It begins by exploring the meaning of God’s glory and how His creation, character, and works reveal His infinite worth. Moving through the life of Christ, it highlights how Jesus perfectly glorified the Father through His obedience, sacrifice, and exaltation. Finally, it emphasizes how we are called to reflect God’s glory daily through our worship, conduct, and testimony. This study reminds us that glorifying God is not only a command but the essence of our existence, shaping our identity and purpose as His people.
 
 ### **Part 1: Understanding God’s Glory and Our Purpose**  
 **Isaiah 43:7**  
@@ -99,7 +99,7 @@ The *Glorify God* devotional for October 2024 centers on our ultimate purpose as
 “Let your light shine before men in such a way that they may see your good works, and glorify your Father who is in heaven.”
 
 ## **Emulate Christ**  
-The *Emulate Christ* series for September 2024 challenges believers to mirror the life and teachings of Jesus, deepening our understanding of what it means to live out the Gospel. Beginning with the truth of our transformation into Christ’s image, it moves into practical steps for adopting His virtues such as humility, love, and servanthood. It concludes with the impact of living as Christ’s representatives, demonstrating His love and sharing the message of salvation. This study calls us to a life of discipleship, empowered by the Holy Spirit, as we pursue Christlikeness and embrace the privilege of showing His character to the world.
+The *Emulate Christ* themed study challenges believers to mirror the life and teachings of Jesus, deepening our understanding of what it means to live out the Gospel. Beginning with the truth of our transformation into Christ’s image, it moves into practical steps for adopting His virtues such as humility, love, and servanthood. It concludes with the impact of living as Christ’s representatives, demonstrating His love and sharing the message of salvation. This study calls us to a life of discipleship, empowered by the Holy Spirit, as we pursue Christlikeness and embrace the privilege of showing His character to the world.
 
 **Romans 8:29**  
 “For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that He would be the firstborn among many brethren.”  
@@ -147,7 +147,7 @@ The *Emulate Christ* series for September 2024 challenges believers to mirror th
 “For you have been called for this purpose, since Christ also suffered for you, leaving you an example for you to follow in His steps.”  
 
 ## **Set Apart**  
-The *Set Apart* devotional for November 2024 guides believers in understanding the biblical call to holiness, as exemplified in 1 Peter. It unpacks holiness as not merely external behavior but an inner transformation that sets us apart for God’s purposes. Through themes such as the conduct, challenge, and commitment of holiness, it explores how we can honor God in our actions, resist worldly temptations, and endure trials with faith. Empowered by grace and modeled after Christ’s own holiness, this study encourages us to live as witnesses to God’s character, reflecting His light in a dark world, and glorifying Him in all we do.
+The *Set Apart* themed study guides believers in understanding the biblical call to holiness, as exemplified in 1 Peter. It unpacks holiness as not merely external behavior but an inner transformation that sets us apart for God’s purposes. Through themes such as the conduct, challenge, and commitment of holiness, it explores how we can honor God in our actions, resist worldly temptations, and endure trials with faith. Empowered by grace and modeled after Christ’s own holiness, this study encourages us to live as witnesses to God’s character, reflecting His light in a dark world, and glorifying Him in all we do.
 
 **1 Peter 1:15-16**  
 “But like the Holy One who called you, be holy yourselves also in all your behavior; because it is written, ‘You shall be holy, for I am holy.’”
@@ -171,7 +171,7 @@ The *Set Apart* devotional for November 2024 guides believers in understanding t
 “Beloved, do not be surprised at the fiery ordeal among you, which comes upon you for your testing, as though some strange thing were happening to you; but to the degree that you share the sufferings of Christ, keep on rejoicing, so that also at the revelation of His glory you may rejoice with exultation.”
 
 ## **In Christ**  
-The *In Christ* study for November 2024 delves into the profound biblical truth of union with Christ, which forms the foundation of the believer’s identity and spiritual life. By participating in Christ’s life, death, and resurrection, we are given new life, access to God’s grace, and the hope of eternal communion with Him. The study explores how this connection redefines our purpose, integrates us into His body, and calls us to live Spirit-led lives that reflect His love and fulfill His mission. Anchoring believers in the transformative power of life through Christ, it inspires confidence in God’s promises and a deeper commitment to living for His glory.
+The *In Christ* themed study delves into the profound biblical truth of union with Christ, which forms the foundation of the believer’s identity and spiritual life. By participating in Christ’s life, death, and resurrection, we are given new life, access to God’s grace, and the hope of eternal communion with Him. The study explores how this connection redefines our purpose, integrates us into His body, and calls us to live Spirit-led lives that reflect His love and fulfill His mission. Anchoring believers in the transformative power of life through Christ, it inspires confidence in God’s promises and a deeper commitment to living for His glory.
 
 **John 1:4**  
 “In Him was life, and the life was the Light of men.”
