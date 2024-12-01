@@ -311,7 +311,7 @@ The Christian life is not about mere outward behaviors or religious observances.
 
 The beauty of *Theosis* is that it is a holistic transformation, involving every aspect of our being—spirit, mind, and body. In the evangelical context, *Theosis* is understood as a process that God initiates and completes through the gospel, empowering believers to grow in Christlikeness by the Holy Spirit.
 
-At the heart of this transformative journey are four foundational pillars: **Exalting our Creator**, **Emulating Christ's Character**, **Exemplifying our Calling to Holiness**, and **Embodying our Connection with Christ**. These pillars guide believers in fulfilling their ultimate calling—to reflect the image of God as originally intended and as restored in Christ.
+At the heart of this transformative journey are four foundational pillars: **Exalt**, **Emulate**, **Exemplify**, and **Embody**. These pillars guide believers in fulfilling their ultimate calling—to reflect the image of God as originally intended and as restored in Christ.
 
 ---
 
@@ -369,8 +369,8 @@ Our union with Christ means that we no longer live for ourselves but for Him. In
 
 ### Conclusion: Embrace the Journey of Theosis
 
-*Theosis* is the beautiful process by which we are transformed into the likeness of Christ, empowered by the Holy Spirit. It is not an abstract theological concept but a practical and spiritual reality that shapes every part of the Christian life. Through exalting God, emulating Christ, exemplifying holiness, and embodying union with Him, we grow into the people God created us to be—image-bearers of His glory.
+*Theosis* is the beautiful process by which we are transformed into the likeness of Christ, empowered by the Holy Spirit. It is not an abstract theological concept but a practical and spiritual reality that shapes every part of the Christian life. Through **Exalting God**, **Emulating Christ**, **Exemplifying holiness**, and **Embodying union with Christ**, we grow into the people God created us to be—image-bearers of His glory.
 
 This process is both a present reality and a future hope. As we continue to live out *Theosis* in our daily lives, we anticipate the ultimate fulfillment of this transformation when we see Christ face to face (1 John 3:2). Until that day, we press on with joy, confidence, and gratitude, knowing that God is faithfully at work within us to conform us to the image of His Son.
 
-May we live out these pillars of *Theosis*, reflecting God’s glory in all we do, and trust in His power to complete the good work He has begun in us. As we journey through this transformative process, let us rest in the assurance that the God who called us to this great purpose will bring it to fruition, for His glory and our eternal good.
+May we live out these pillars of *Theosis*, reflecting God’s glory in all we do, and trust in His power to complete the good work He has begun in us. As we journey through this transformative process, let us rest in the assurance that the God who called us to this great purpose will bring it to fruition, for His glory and our eternal good. 
