@@ -1,3 +1,67 @@
+### Theosis: A Biblical Journey of Transformation
+
+*Theosis*, derived from the Greek term meaning "divinization" or "becoming godlike," is the biblical process of being transformed into the image of Christ. It is rooted in Scripture and reflects God’s purpose to restore humanity to its intended role as bearers of His image. This transformation unfolds in three interconnected stages of Christian life: **justification**, **sanctification**, and **glorification**, all powered by the Holy Spirit.
+
+#### 1. **Created for Glory: Humanity’s Original Design**
+From the beginning, humanity was created to reflect God’s glory. Genesis 1:26 declares, “Let Us make man in Our image, according to Our likeness.” This design emphasizes humanity’s unique calling to reflect God's character and rule on His behalf.
+
+However, sin marred this divine image. Yet, God’s redemptive plan through Christ restores and even elevates believers into full communion with Him.
+
+---
+
+#### 2. **Justification: The Starting Point of Transformation**
+Justification is the first stage where believers are reconciled to God through faith in Christ. Romans 5:1 explains, “Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ.”
+
+This foundational step removes the barrier of sin and opens the door to participate in God’s transformative work. Justification is not the end but the beginning of the journey toward becoming Christlike.
+
+- **Key Scripture**: 2 Peter 1:3-4 reminds us that believers are called to "become partakers of the divine nature," escaping corruption through God’s promises.
+
+---
+
+#### 3. **Sanctification: Growing in Christlikeness**
+Sanctification is the lifelong process of being conformed to Christ’s image. This involves:
+- **Exalting God**: Living for His glory (1 Corinthians 10:31).
+- **Emulating Christ**: Reflecting His humility, love, and obedience (Romans 8:29; 2 Corinthians 3:18).
+- **Exemplifying Holiness**: Pursuing a set-apart life for God (1 Peter 1:15-16).
+
+This stage is marked by active cooperation with the Holy Spirit through:
+- Prayer and worship.
+- Studying God’s Word for renewal (Romans 12:1-2).
+- Cultivating godly relationships for encouragement.
+
+Sanctification is transformative and ongoing, described in 2 Corinthians 3:18: “We... are being transformed into the same image from glory to glory.”
+
+---
+
+#### 4. **Glorification: The Fulfillment of Theosis**
+Theosis culminates in glorification, when believers are fully conformed to the image of Christ in eternity. This future hope is vividly described in 1 John 3:2: “We know that when He appears, we will be like Him, because we will see Him just as He is.”
+
+This stage completes the believer’s transformation, ushering them into perfect communion with God.
+
+- **Key Scripture**: Romans 8:30 outlines the divine progression: “...whom He predestined, these He also called; and whom He called, these He also justified; and whom He justified, these He also glorified.”
+
+---
+
+### Key Elements of Theosis in Christian Life
+Theosis involves the following elements that encompass our walk with God:
+
+1. **Union with Christ**: The source of all transformation (John 15:5). Without abiding in Him, believers can accomplish nothing.
+2. **Partaking in the Divine Nature**: Living out God’s promises and reflecting His attributes (2 Peter 1:4).
+3. **Empowerment by the Holy Spirit**: The Spirit works within believers to produce fruit and effect change (Galatians 5:22-23).
+4. **Living in Holiness**: The call to mirror God’s character through obedience and purity (Leviticus 19:2; 1 Peter 1:16).
+
+---
+
+### Theosis Summarized
+- *Theosis* is not about becoming divine in essence but participating in God’s moral, relational, and spiritual attributes.
+- It is the process of being restored to God's image through the work of Christ and the Holy Spirit.
+- It unfolds progressively in justification, sanctification, and glorification.
+- Its ultimate goal is to reflect God's glory, live in holiness, and enjoy eternal union with Him.
+
+As Philippians 1:6 assures us, “He who began a good work in you will perfect it until the day of Christ Jesus.” This is the promise of *Theosis*—to transform us into Christ’s likeness, fulfilling God’s eternal purpose for humanity.
+
+---
+
 ## **Glorify God**  
 The *Glorify God* themed study centers on our ultimate purpose as believers: to magnify the greatness and majesty of God in every aspect of life. It begins by exploring the meaning of God’s glory and how His creation, character, and works reveal His infinite worth. Moving through the life of Christ, it highlights how Jesus perfectly glorified the Father through His obedience, sacrifice, and exaltation. Finally, it emphasizes how we are called to reflect God’s glory daily through our worship, conduct, and testimony. This study reminds us that glorifying God is not only a command but the essence of our existence, shaping our identity and purpose as His people.
 
