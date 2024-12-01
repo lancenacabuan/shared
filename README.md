@@ -1,64 +1,16 @@
-## Theosis: A Biblical Journey of Transformation
+# Theosis: Holistic Christianity
 
-*Theosis*, derived from the Greek term meaning "divinization" or "becoming godlike," is the biblical process of being transformed into the image of Christ. It is rooted in Scripture and reflects God’s purpose to restore humanity to its intended role as bearers of His image. This transformation unfolds in three interconnected stages of Christian life: **justification**, **sanctification**, and **glorification**, all powered by the Holy Spirit.
+The Christian life is not about following mere rules or outward rituals; it's a transformative journey of becoming more like Christ. This journey, known as *Theosis*, is about reflecting God’s image and participating in His divine nature. It’s a process that touches every part of our being—spirit, mind, and body. The beauty of *Theosis* is that it’s not something we do on our own. It’s a work that God initiates and completes through the gospel, empowering us to grow in Christlikeness through the Holy Spirit. This journey is guided by four key pillars: **Exalt**, **Emulate**, **Exemplify**, and **Embody**. These pillars help us fulfill the purpose for which we were created: to reflect God’s image in the world.
 
-### **Created for Glory: Humanity’s Original Design**
-From the beginning, humanity was created to reflect God’s glory. Genesis 1:26 declares, “Let Us make man in Our image, according to Our likeness.” This design emphasizes humanity’s unique calling to reflect God's character and rule on His behalf.
+The first pillar, **Exalt**, reminds us that our purpose is to glorify God. From the beginning, humanity was created to reflect and honor God’s greatness. This isn’t just about singing praises or performing rituals; it’s about living every moment with the goal of bringing glory to God. In Isaiah 43:7, God declares, “Everyone who is called by My name, and whom I have created for My glory.” Glorifying God is at the very heart of our existence. Jesus showed us how to live this out perfectly in John 17:4, when He said, “I glorified You on the earth, having accomplished the work which You have given Me to do.” Everything we do—whether at work, at home, or in our relationships—should be done for God’s glory. It’s not just about what we do, but about doing everything with the intention of exalting Him. **Exalt** Him in all things.
 
-However, sin marred this divine image. Yet, God’s redemptive plan through Christ restores and even elevates believers into full communion with Him.
+The second pillar, **Emulate**, calls us to become more like Christ. The Christian life is a process of growing into the image of Jesus. Romans 8:29 says that God’s plan is “to become conformed to the image of His Son.” This transformation doesn’t happen overnight, but it’s something we grow into. As we look to Jesus—through Scripture, worship, and prayer—the Holy Spirit works in us to make us more like Him. In 2 Corinthians 3:18, Paul writes, “But we all, with unveiled face, beholding as in a mirror the glory of the Lord, are being transformed into the same image from glory to glory.” The more we focus on Christ, the more we are changed to reflect His love, humility, and obedience. We are called to **Emulate** Christ, to imitate His character in everything we do. This isn’t about trying harder in our own strength, but about allowing the Holy Spirit to transform us from the inside out.
 
----
+The third pillar, **Exemplify**, calls us to live lives of holiness. Holiness is not about perfection, but about living a life set apart for God. In 1 Peter 1:15-16, we are reminded, “But like the Holy One who called you, be holy yourselves also in all your behavior; because it is written, ‘You shall be holy, for I am holy.’” Holiness is not just an outward appearance, but an inner transformation that leads us to reject sin and pursue God’s will. It’s about offering our lives to God as living sacrifices, as Romans 12:1-2 urges us. We are called to **Exemplify** holiness by living according to God’s Word, rejecting the patterns of the world, and continually striving to reflect His purity and righteousness in everything we do.
 
-### **Justification: The Starting Point of Transformation**
-Justification is the first stage where believers are reconciled to God through faith in Christ. Romans 5:1 explains, “Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ.”
+The final pillar, **Embody**, is about our union with Christ. This union with Jesus is the foundation of our spiritual transformation. In John 15:5, Jesus says, “I am the vine, you are the branches; he who abides in Me and I in him, he bears much fruit; for apart from Me you can do nothing.” Our relationship with Christ is the source of all spiritual growth. It’s not about trying to live the Christian life on our own strength, but about depending on Christ to live through us. Paul echoes this in Galatians 2:20, saying, “I have been crucified with Christ; and it is no longer I who live, but Christ lives in me.” **Embody** this union with Christ by remaining in constant fellowship with Him, trusting that He will work in and through you to accomplish His purposes.
 
-This foundational step removes the barrier of sin and opens the door to participate in God’s transformative work. Justification is not the end but the beginning of the journey toward becoming Christlike.
-
-- **Key Scripture**: 2 Peter 1:3-4 reminds us that believers are called to "become partakers of the divine nature," escaping corruption through God’s promises.
-
----
-
-### **Sanctification: Growing in Christlikeness**
-Sanctification is the lifelong process of being conformed to Christ’s image. This involves:
-- **Exalting God**: Living for His glory (1 Corinthians 10:31).
-- **Emulating Christ**: Reflecting His humility, love, and obedience (Romans 8:29; 2 Corinthians 3:18).
-- **Exemplifying Holiness**: Pursuing a set-apart life for God (1 Peter 1:15-16).
-
-This stage is marked by active cooperation with the Holy Spirit through:
-- Prayer and worship.
-- Studying God’s Word for renewal (Romans 12:1-2).
-- Cultivating godly relationships for encouragement.
-
-Sanctification is transformative and ongoing, described in 2 Corinthians 3:18: “We... are being transformed into the same image from glory to glory.”
-
----
-
-### **Glorification: The Fulfillment of Theosis**
-Theosis culminates in glorification, when believers are fully conformed to the image of Christ in eternity. This future hope is vividly described in 1 John 3:2: “We know that when He appears, we will be like Him, because we will see Him just as He is.”
-
-This stage completes the believer’s transformation, ushering them into perfect communion with God.
-
-- **Key Scripture**: Romans 8:30 outlines the divine progression: “...whom He predestined, these He also called; and whom He called, these He also justified; and whom He justified, these He also glorified.”
-
----
-
-### Key Elements of Theosis in Christian Life
-Theosis involves the following elements that encompass our walk with God:
-
-1. **Union with Christ**: The source of all transformation (John 15:5). Without abiding in Him, believers can accomplish nothing.
-2. **Partaking in the Divine Nature**: Living out God’s promises and reflecting His attributes (2 Peter 1:4).
-3. **Empowerment by the Holy Spirit**: The Spirit works within believers to produce fruit and effect change (Galatians 5:22-23).
-4. **Living in Holiness**: The call to mirror God’s character through obedience and purity (Leviticus 19:2; 1 Peter 1:16).
-
----
-
-### Theosis Summarized
-- *Theosis* is not about becoming divine in essence but participating in God’s moral, relational, and spiritual attributes.
-- It is the process of being restored to God's image through the work of Christ and the Holy Spirit.
-- It unfolds progressively in justification, sanctification, and glorification.
-- Its ultimate goal is to reflect God's glory, live in holiness, and enjoy eternal union with Him.
-
-As Philippians 1:6 assures us, “He who began a good work in you will perfect it until the day of Christ Jesus.” This is the promise of *Theosis*—to transform us into Christ’s likeness, fulfilling God’s eternal purpose for humanity.
+As we journey through *Theosis*, we are called to **Exalt** God, **Emulate** Christ, **Exemplify** holiness, and **Embody** our union with Christ. These four pillars guide us in becoming the people God created us to be. This process is both a present reality and a future hope. As we grow in Christlikeness, we look forward to the day when we will see Christ face to face, and the work He has begun in us will be completed. Until then, we press on, knowing that God is faithfully at work within us, shaping us to reflect His glory. Let us live out these pillars of *Theosis*, trusting that God will bring to completion the good work He has begun in us, for His glory and our eternal good.
 
 ---
 
