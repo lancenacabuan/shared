@@ -1,15 +1,15 @@
-### Theosis: A Biblical Journey of Transformation
+## Theosis: A Biblical Journey of Transformation
 
 *Theosis*, derived from the Greek term meaning "divinization" or "becoming godlike," is the biblical process of being transformed into the image of Christ. It is rooted in Scripture and reflects God’s purpose to restore humanity to its intended role as bearers of His image. This transformation unfolds in three interconnected stages of Christian life: **justification**, **sanctification**, and **glorification**, all powered by the Holy Spirit.
 
-#### 1. **Created for Glory: Humanity’s Original Design**
+### **Created for Glory: Humanity’s Original Design**
 From the beginning, humanity was created to reflect God’s glory. Genesis 1:26 declares, “Let Us make man in Our image, according to Our likeness.” This design emphasizes humanity’s unique calling to reflect God's character and rule on His behalf.
 
 However, sin marred this divine image. Yet, God’s redemptive plan through Christ restores and even elevates believers into full communion with Him.
 
 ---
 
-#### 2. **Justification: The Starting Point of Transformation**
+### **Justification: The Starting Point of Transformation**
 Justification is the first stage where believers are reconciled to God through faith in Christ. Romans 5:1 explains, “Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ.”
 
 This foundational step removes the barrier of sin and opens the door to participate in God’s transformative work. Justification is not the end but the beginning of the journey toward becoming Christlike.
@@ -18,7 +18,7 @@ This foundational step removes the barrier of sin and opens the door to particip
 
 ---
 
-#### 3. **Sanctification: Growing in Christlikeness**
+### **Sanctification: Growing in Christlikeness**
 Sanctification is the lifelong process of being conformed to Christ’s image. This involves:
 - **Exalting God**: Living for His glory (1 Corinthians 10:31).
 - **Emulating Christ**: Reflecting His humility, love, and obedience (Romans 8:29; 2 Corinthians 3:18).
@@ -33,7 +33,7 @@ Sanctification is transformative and ongoing, described in 2 Corinthians 3:18: �
 
 ---
 
-#### 4. **Glorification: The Fulfillment of Theosis**
+### **Glorification: The Fulfillment of Theosis**
 Theosis culminates in glorification, when believers are fully conformed to the image of Christ in eternity. This future hope is vividly described in 1 John 3:2: “We know that when He appears, we will be like Him, because we will see Him just as He is.”
 
 This stage completes the believer’s transformation, ushering them into perfect communion with God.
