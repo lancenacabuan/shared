@@ -154,6 +154,7 @@ The *Emulate Christ* themed study challenges believers to mirror the life and te
 
 *Foster Relationships* themed-study explores how our union with Christ transforms all human connections. God's grace enables us to reflect His sacrificial love in our relationships with family, neighbors, and fellow believers. As we abide in Christ, His love shapes our hearts toward genuine service, humility, and reconciliation. This divine love manifests through intentional actions, not mere feelings, calling us to nurture relationships that display His grace and truth.
 
+### **Part 1: Abiding in Christ & Loving Others**
 **John 15:4-5**  
 “Abide in Me, and I in you. As the branch cannot bear fruit of itself unless it abides in the vine, so neither can you unless you abide in Me. I am the vine, you are the branches; he who abides in Me and I in him, he bears much fruit, for apart from Me you can do nothing.”  
 
@@ -184,6 +185,7 @@ The *Emulate Christ* themed study challenges believers to mirror the life and te
 **John 14:15**  
 “If you love Me, you will keep My commandments.”  
 
+### **Part 2: Love Manifested Through Action**
 **John 13:34-35**  
 “A new commandment I give to you, that you love one another, even as I have loved you, that you also love one another. By this all men will know that you are My disciples, if you have love for one another.”  
 
@@ -199,6 +201,7 @@ The *Emulate Christ* themed study challenges believers to mirror the life and te
 **Romans 12:10**  
 “Be devoted to one another in brotherly love; give preference to one another in honor.”  
 
+### **Part 3: Reconciliation & Unity**
 **2 Corinthians 5:14-15**  
 “For the love of Christ controls us, having concluded this, that one died for all, therefore all died; and He died for all, so that they who live might no longer live for themselves, but for Him who died and rose again on their behalf.”  
 
