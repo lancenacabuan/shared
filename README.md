@@ -150,6 +150,102 @@ The *Emulate Christ* themed study challenges believers to mirror the life and te
 
 ---
 
+## **Foster Relationships**
+
+*Foster Relationships* themed-study explores how our union with Christ transforms all human connections. God's grace enables us to reflect His sacrificial love in our relationships with family, neighbors, and fellow believers. As we abide in Christ, His love shapes our hearts toward genuine service, humility, and reconciliation. This divine love manifests through intentional actions, not mere feelings, calling us to nurture relationships that display His grace and truth.
+
+**John 15:4-5**  
+“Abide in Me, and I in you. As the branch cannot bear fruit of itself unless it abides in the vine, so neither can you unless you abide in Me. I am the vine, you are the branches; he who abides in Me and I in him, he bears much fruit, for apart from Me you can do nothing.”  
+
+**1 John 4:16**  
+“We have come to know and have believed the love which God has for us. God is love, and the one who abides in love abides in God, and God abides in him.”  
+
+**Mark 12:29-31**  
+“Jesus answered, ‘The foremost is, “Hear, O Israel! The Lord our God is one Lord; and you shall love the Lord your God with all your heart, and with all your soul, and with all your mind, and with all your strength.” The second is this, “You shall love your neighbor as yourself.” There is no other commandment greater than these.’”  
+
+**1 John 4:19-21**  
+“We love, because He first loved us. If someone says, ‘I love God,’ and hates his brother, he is a liar; for the one who does not love his brother whom he has seen, cannot love God whom he has not seen. And this commandment we have from Him, that the one who loves God should love his brother also.”  
+
+**1 John 4:10-11**  
+“In this is love, not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins. Beloved, if God so loved us, we also ought to love one another.”  
+
+**1 John 5:3**  
+“For this is the love of God, that we keep His commandments; and His commandments are not burdensome.”  
+
+**Hebrews 12:6-7**  
+“For those whom the Lord loves He disciplines, And He scourges every son whom He receives. It is for discipline that you endure; God deals with you as with sons; for what son is there whom his father does not discipline?”  
+
+**John 15:9-10**  
+“Just as the Father has loved Me, I have also loved you; abide in My love. If you keep My commandments, you will abide in My love; just as I have kept My Father’s commandments and abide in His love.”  
+
+**John 14:23**  
+“Jesus answered and said to him, ‘If anyone loves Me, he will keep My word; and My Father will love him, and We will come to him and make Our abode with him.’”  
+
+**John 14:15**  
+“If you love Me, you will keep My commandments.”  
+
+**John 13:34-35**  
+“A new commandment I give to you, that you love one another, even as I have loved you, that you also love one another. By this all men will know that you are My disciples, if you have love for one another.”  
+
+**John 15:12-13**  
+“This is My commandment, that you love one another, just as I have loved you. Greater love has no one than this, that one lay down his life for his friends.”  
+
+**1 John 3:16**  
+“We know love by this, that He laid down His life for us; and we ought to lay down our lives for the brethren.”  
+
+**Galatians 6:2**  
+“Bear one another’s burdens, and thereby fulfill the law of Christ.”  
+
+**Romans 12:10**  
+“Be devoted to one another in brotherly love; give preference to one another in honor.”  
+
+**2 Corinthians 5:14-15**  
+“For the love of Christ controls us, having concluded this, that one died for all, therefore all died; and He died for all, so that they who live might no longer live for themselves, but for Him who died and rose again on their behalf.”  
+
+**Ephesians 3:17-19**  
+“So that Christ may dwell in your hearts through faith; and that you, being rooted and grounded in love, may be able to comprehend with all the saints what is the breadth and length and height and depth, and to know the love of Christ which surpasses knowledge, that you may be filled up to all the fullness of God.”  
+
+**Ephesians 4:1-3**  
+“Therefore I, the prisoner of the Lord, implore you to walk in a manner worthy of the calling with which you have been called, with all humility and gentleness, with patience, showing tolerance for one another in love, being diligent to preserve the unity of the Spirit in the bond of peace.”  
+
+**Colossians 3:12-14**  
+“So, as those who have been chosen of God, holy and beloved, put on a heart of compassion, kindness, humility, gentleness, and patience; bearing with one another, and forgiving each other, whoever has a complaint against anyone; just as the Lord forgave you, so also should you. Beyond all these things put on love, which is the perfect bond of unity.”  
+
+**Hebrews 10:24-25**  
+“And let us consider how to stimulate one another to love and good deeds, not forsaking our own assembling together, as is the habit of some, but encouraging one another; and all the more as you see the day drawing near.”  
+
+**Philippians 2:3-5**  
+“Do nothing from selfishness or empty conceit, but with humility of mind regard one another as more important than yourselves; do not merely look out for your own personal interests, but also for the interests of others. Have this attitude in yourselves which was also in Christ Jesus.”  
+
+**1 Corinthians 16:14**  
+“Let all that you do be done in love.”  
+
+**1 Peter 3:15**  
+“But sanctify Christ as Lord in your hearts, always being ready to make a defense to everyone who asks you to give an account for the hope that is in you, yet with gentleness and reverence.”  
+
+**2 Corinthians 5:18-19**  
+“Now all these things are from God, who reconciled us to Himself through Christ and gave us the ministry of reconciliation, namely, that God was in Christ reconciling the world to Himself, not counting their trespasses against them, and He has committed to us the word of reconciliation.”  
+
+**2 Corinthians 5:20**  
+“Therefore, we are ambassadors for Christ, as though God were making an appeal through us; we beg you on behalf of Christ, be reconciled to God.”  
+
+**1 John 3:1**  
+“See how great a love the Father has bestowed on us, that we would be called children of God; and such we are.”  
+
+**John 3:16**  
+“For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life.”  
+
+**1 John 4:17**  
+“By this, love is perfected with us, so that we may have confidence in the day of judgment; because as He is, so also are we in this world.”  
+
+**Ephesians 5:1-2**  
+“Therefore be imitators of God, as beloved children; and walk in love, just as Christ also loved you and gave Himself up for us, an offering and a sacrifice to God as a fragrant aroma.”  
+
+**2 Corinthians 1:3-4**  
+“Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, who comforts us in all our affliction so that we will be able to comfort those who are in any affliction with the comfort with which we ourselves are comforted by God.”  
+
+---
+
 ## **Set Apart**
 The *Set Apart* themed study guides believers in understanding the biblical call to holiness, as exemplified in 1 Peter. It unpacks holiness as not merely external behavior but an inner transformation that sets us apart for God’s purposes. Through themes such as the conduct, challenge, and commitment of holiness, it explores how we can honor God in our actions, resist worldly temptations, and endure trials with faith. Empowered by grace and modeled after Christ’s own holiness, this study encourages us to live as witnesses to God’s character, reflecting His light in a dark world, and glorifying Him in all we do.
 
